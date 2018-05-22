@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kishwar Ahmed"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kishwar Ahmed"
 description              : &description "personal description"
 url                      : https://kishwarbd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fhLNDhoAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
