@@ -82,10 +82,10 @@ author:
   avatar           : "kishwar.jpg"
   bio              : "Ph.D. in Computer Science, School of Computing
 and Information Sciences, Florida International University"
-  location         : "Location"
+  location         : "Miami, FL, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=fhLNDhoAAAAJ&hl=en"
-  email            :
+  email            : "kishwar.bd@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,25 +93,25 @@ and Information Sciences, Florida International University"
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kishwar-ahmed-05186b15" 
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  
 
 # Reading Files
 include:
