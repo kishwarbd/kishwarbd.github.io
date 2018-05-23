@@ -177,10 +177,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -229,7 +229,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
