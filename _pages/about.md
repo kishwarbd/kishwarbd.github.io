@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Kishwar Ahmed. I graduated with a Ph.D. in Computer Science from
-the [Florida International University (FIU)](https://www.cis.fiu.edu)
-in April 2018. I was a member of
-[ModLab](https://people.cis.fiu.edu/liux/research) at FIU, which is
-led by [Dr. Jason Liu](https://people.cis.fiu.edu/liux/).
+I am Kishwar Ahmed. I received my Ph.D. in Computer Science from the
+[School of Computing and Infromation
+Sciences](https://www.cis.fiu.edu) at [Florida International
+University (FIU)](https://www.fiu.edu) under the supervision of [Prof.
+Jason Liu](https://people.cis.fiu.edu/liux/) in 2018. 
 
