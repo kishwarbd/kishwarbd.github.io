@@ -10,5 +10,5 @@ redirect_from:
 
 I'm Kishwar Ahmed. I received my Ph.D. in Computer Science from the 
 Florida International University in April 2018. My supervisor was
-[Dr. Jason Liu](people.cis.fiu.edu/liux/).
+[Dr. Jason Liu](https://people.cis.fiu.edu/liux/).
 [Google](https://www.google.com)
