@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "kishwar Ahmed"
+  name             : "Kishwar Ahmed"
   avatar           : "kishwar.jpg"
   bio              : "Ph.D. in Computer Science, School of Computing
 and Information Sciences, Florida International University"
@@ -176,9 +176,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: false
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -222,6 +222,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  '''
   # _portfolio
   - scope:
       path: ""
@@ -231,6 +232,7 @@ defaults:
       author_profile: false
       share: false
       comment: false
+  '''
   # _talks
   - scope:
       path: ""
