@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
 I am Kishwar Ahmed. I received my Ph.D. in Computer Science from the
 [School of Computing and Infromation
 Sciences](https://www.cis.fiu.edu) at [Florida International
@@ -20,9 +19,10 @@ University of Engineering and Technology (BUET)](http://buet.ac.bd).
 
 My research interests are broadly in the areas of high-performance
 computing (HPC) systems, cyber-physical systems, and quantum computing
-systems. I am particularly focusing on the modeling and simulation of
-HPC and quantum computing systems.
+systems. I am particularly focusing on the accurate and
+energy-efficient modeling and simulation of the HPC systems.
 
-Latest News
-======
+# Latest News #
+* I presented our work on Performance Prediction Toolkit (PPT) at 4th
+Summer of CODES  
   
