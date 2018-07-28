@@ -17,8 +17,8 @@ Computer Science and Engineering from the [Department of Computer
 Sciene and Engineering](http://cse.buet.ac.bd) at [Bangladesh
 University of Engineering and Technology (BUET)](http://buet.ac.bd).
 
-My research interests are broadly in the areas of **high-performance
-computing (HPC) systems**, 
+My research interests are broadly in the areas of high-performance
+computing (HPC) systems, 
 
 Latest News
 ======
