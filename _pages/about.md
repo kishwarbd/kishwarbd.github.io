@@ -17,12 +17,12 @@ Computer Science and Engineering from the [Department of Computer
 Sciene and Engineering](http://cse.buet.ac.bd) at [Bangladesh
 University of Engineering and Technology (BUET)](http://buet.ac.bd).
 
-My research interests are broadly in the areas of high-performance
-computing (HPC) systems, cyber-physical systems, and quantum computing
-systems. I am particularly focusing on the accurate and
+My research interests are broadly in the areas of **high-performance
+computing (HPC) systems**, **cyber-physical systems**, and **quantum computing
+systems**. I am particularly focusing on the accurate and
 energy-efficient modeling and simulation of the HPC systems.
 
-# Latest News #
+# Latest News
 * I presented our work on Performance Prediction Toolkit (PPT) at 4th
 Summer of CODES  
   

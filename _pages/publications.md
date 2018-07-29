@@ -4,16 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This is a test
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Conferences
 
-{% include base_path %}
+* **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” to appear at IEEE International Conference on High Performance Computing and Communications (HPCC 2018), Exeter, UK, June 2018.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-This is another test
+* **Kishwar Ahmed**, Jason Liu, Abdel-Hameed Badawy, and Stephan Eidenbenz, “A Brief History of HPC Simulation and Future Challenges,” 2017 Winter Simulation Conference (WSC 2017), Las Vegas, NV, December 2017.
