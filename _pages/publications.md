@@ -1,4 +1,5 @@
 ---
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -7,7 +8,7 @@ author_profile: true
 
 * **Kishwar Ahmed**, Jesse Bull, and Jason Liu, “Contract-Based Demand Response Model for HPC Systems,” Submitted for publication.
 
-* **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” To appear at IEEE International Conference on High Performance Computing and Communications [(HPCC 2018)](https://cse.stfx.ca/~hpcc2018/), Exeter, UK, June 2018.
+* **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” To appear at IEEE International Conference on High Performance Computing and Communications [(HPCC 2018)](https://cse.stfx.ca/~hpcc2018/), Exeter, UK, June 2018. [[paper]]((https://kishwarbd.github.io/files/paper-hpcc18.pdf))
 
 * **Kishwar Ahmed**, Jason Liu, Abdel-Hameed Badawy, and Stephan Eidenbenz, “A Brief History of HPC Simulation and Future Challenges,” In Proceedings of the 2017 Winter Simulation Conference [(WSC 2017)](http://meetings2.informs.org/wordpress/wsc2017/), Las Vegas, NV, December 2017. [[paper]](https://ieeexplore.ieee.org/document/8247804)
 
