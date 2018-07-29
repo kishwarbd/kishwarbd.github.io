@@ -26,6 +26,20 @@ author_profile: true
 
 * **Kishwar Ahmed**, Shaolei Ren, Vance Turnewitsch, and Athanasios V. Vasilakos, “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” In Proceedings of the 51st Annual Allerton Conference on Communications, Control and Computing [(Allerton 2013)](http://allerton.csl.illinois.edu/), Monticello, IL, October 2013. [[paper]](https://ieeexplore.ieee.org/document/6736705/)
 
+## Journal Paper
+* Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” IEEE Transactions on Cloud Computing [(TCC)](https://www.computer.org/web/tcc), February 2016. [[paper]](https://ieeexplore.ieee.org/document/7420641/)
+
+## Book Chapter
+* **Kishwar Ahmed**, Shaolei Ren, Yuxiong He, and Athanasios V. Vasilakos, “Online Resource Management for Carbon-Neutral Cloud Computing,” [Handbook on Data Centers](https://www.springer.com/us/book/9781493920914), Edited by Samee Ullah Khan and Albert Y. Zomaya, March 2015. [[chapter]](https://link.springer.com/chapter/10.1007/978-1-4939-2092-1_20)
+
 ## Workshops Papers
-* **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” to appear in Workshop on Modeling & Simulation of Systems and Applications [(ModSim 2018)](https://www.bnl.gov/modsim2018/), Seattle, WA, August 2018. [[paper]](https://kishwarbd.github.io/files/paper-modsim18.pdf)
+* **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” in Workshop on Modeling & Simulation of Systems and Applications [(ModSim 2018)](https://www.bnl.gov/modsim2018/), Seattle, WA, August 2018. [[paper]](https://kishwarbd.github.io/files/paper-modsim18.pdf)
+
+* **Kishwar Ahmed**, Mohammad A. Islam, Shaolei Ren, and Gang Quan, “Can Data Center Become Water Self-Sufficient?,” in 6th Usenix Workshop on Power-Aware Computing and Systems [(HotPower 2014)](https://www.usenix.org/conference/hotpower14) held with USENIX [OSDI 2014](https://www.usenix.org/conference/osdi14), Broomfield, CO, October 2014.[[paper]](https://www.usenix.org/conference/hotpower14/technical-sessions/presentation/can-data-center-become-water-self-sufficient)
+
+## Posters
+* **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” in Workshop on Modeling & Simulation of Systems and Applications [(ModSim 2018)](https://www.bnl.gov/modsim2018/), Seattle, WA, August 2018. 
+
+* Samia Tasnim, **Kishwar Ahmed**, Niki Pissinou, and S. S. Iyengar, “Offloading Code Efficiently on Mobile Cloud,” Poster in Grace Hopper Celebration of Women in Computing [(GHC 2015)](https://ghc.anitab.org/), Houston, TX, October 2015.
+
 
