@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conferences
+## Conference Papers
 
 * **Kishwar Ahmed**, Jesse Bull, and Jason Liu, “Contract-Based Demand Response Model for HPC Systems,” Submitted for publication.
 
@@ -22,7 +22,10 @@ author_profile: true
 
 * Mohammad A. Islam, **Kishwar Ahmed**, Shaolei Ren, and Gang Quan, “Exploiting Temporal Diversity of Water Efficiency to Make Data Center Less “Thirsty”,” In Proceedings of the 11th USENIX International Conference on Autonomic Computing [(ICAC 2014)](https://www.usenix.org/conference/icac14), Philadelphia, PA, June 2014. [[paper]] (https://www.usenix.org/node/183093)
 
-* Samia Tasnim, Mohammad Ataur Rahman Chowdhury, **Kishwar Ahmed**, Niki Pissinou, and S. S. Iyengar, “Location Aware Code Offloading on Mobile Cloud with QoS Constraint,” In Proceedings of the 11th Annual IEEE Consumer Communications & Networking Conference [(CCNC 2014)] (http://ccnc2014.ieee-ccnc.org/), Las Vegas, NV, January 2014. [[paper]](https://ieeexplore.ieee.org/document/6866551/)
+* Samia Tasnim, Mohammad Ataur Rahman Chowdhury, **Kishwar Ahmed**, Niki Pissinou, and S. S. Iyengar, “Location Aware Code Offloading on Mobile Cloud with QoS Constraint,” In Proceedings of the 11th Annual IEEE Consumer Communications & Networking Conference [(CCNC 2014)](http://ccnc2014.ieee-ccnc.org/), Las Vegas, NV, January 2014. [[paper]](https://ieeexplore.ieee.org/document/6866551/)
 
 * **Kishwar Ahmed**, Shaolei Ren, Vance Turnewitsch, and Athanasios V. Vasilakos, “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” In Proceedings of the 51st Annual Allerton Conference on Communications, Control and Computing [(Allerton 2013)](http://allerton.csl.illinois.edu/), Monticello, IL, October 2013. [[paper]](https://ieeexplore.ieee.org/document/6736705/)
+
+## Workshops Papers
+* **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” to appear in Workshop on Modeling & Simulation of Systems and Applications [(ModSim 2018)](https://www.bnl.gov/modsim2018/), Seattle, WA, August 2018. [[paper]](https://kishwarbd.github.io/files/paper-modsim18.pdf)
 
