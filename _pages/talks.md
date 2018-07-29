@@ -21,5 +21,11 @@ author_profile: true
 
 * **How to Enable HPC System Demand Response: An Experimental Study**, [(Chameleon User Meeting 2017)](https://press3.mcs.anl.gov/ccusers2017/), Argonne National Laboratory, Lemont, IL, September 13-14, 2017.[[slides]](https://kishwarbd.github.io/files/slides/chameleonusermeeting17.pdf)
 
+* **A Power Capping Approach for HPC System Demand Response**, [(MCS Seminar)](https://www.alcf.anl.gov/events/power-capping-approach-hpc-system-demand-response), Argonne National Laboratory, Lemont, IL, July 27, 2017. [[slides]](https://kishwarbd.github.io/files/slides/anl-seminar17.pdf)
+
+* **Performance Prediction Models for Large-Scale Interconnection Networks in HPC System**, Graduate Student Appreciation Week scholarly forum [(GSAW 2017)](http://gradschool.fiu.edu/gsaw/), Florida International University, Miami, FL, March 27-28, 2017. [[slides]](https://kishwarbd.github.io/files/slides/gsaw17.pdf)
+
+* **Contract-Based Emergency Demand Response Participation of Multi-tenant Colocation Data Center**, Graduate Student Appreciation Week scholarly forum (GSAW 2016)(http://gradschool.fiu.edu/gsaw/), Florida International University, Miami, FL, March 28-29, 2016. [[slides]](https://kishwarbd.github.io/files/slides/gsaw16.pdf)
+
 
 
