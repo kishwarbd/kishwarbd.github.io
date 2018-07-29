@@ -22,11 +22,11 @@ computing (HPC) systems**, **cyber-physical systems**, and **quantum computing
 systems**. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC and quantum computing systems.
 
 ## Latest News
-* I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [(summerofcodes2018)](https://press3.mcs.anl.gov/summerofcodes2018/).
+* I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [summerofcodes2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 
-* Our paper titled “Energy Demand Response Modeling for High Performance Computing Systems” was accepted at [(ModSim 2018)](https://www.bnl.gov/modsim2018/)!
+* Our paper titled “Energy Demand Response Modeling for High Performance Computing Systems” was accepted at [ModSim 2018](https://www.bnl.gov/modsim2018/)!
 
-* Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” was accepted at [(IEEE HPCC 2018)](https://cse.stfx.ca/~hpcc2018/)! 
+* Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” was accepted at [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
 
 ## Selected Publications
 
