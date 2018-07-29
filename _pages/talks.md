@@ -19,3 +19,7 @@ author_profile: true
 
 ## Miscellaneous Talks
 
+* **How to Enable HPC System Demand Response: An Experimental Study**, [(Chameleon User Meeting 2017)](https://press3.mcs.anl.gov/ccusers2017/), Argonne National Laboratory, Lemont, IL, September 13-14, 2017.[[slides]](https://kishwarbd.github.io/files/slides/chameleonusermeeting17.pdf)
+
+
+
