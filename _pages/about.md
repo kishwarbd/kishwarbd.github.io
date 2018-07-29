@@ -33,7 +33,7 @@ systems**. I am particularly focusing on the accurate, scalable, and efficient m
 
 ## Selected Publications
 
-*  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/).[[paper]](https://ieeexplore.ieee.org/document/8107444/) (acceptance rate ~ 23%)
+*  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper]](https://ieeexplore.ieee.org/document/8107444/) (acceptance rate ~ 23%)
 
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper]](https://dl.acm.org/citation.cfm?id=2901396)
 
