@@ -15,14 +15,11 @@ Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
 Master's in Computer Science from FIU in 2017 and my Bachelor's in
 Computer Science and Engineering from the [Department of Computer
 Sciene and Engineering](http://cse.buet.ac.bd) at [Bangladesh
-University of Engineering and Technology (BUET)](http://buet.ac.bd).
+University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009.
 
 My research interests are broadly in the areas of **high-performance
 computing (HPC) systems**, **cyber-physical systems**, and **quantum computing
-systems**. I am particularly focusing on the accurate and
-energy-efficient modeling and simulation of the HPC systems.
+systems**. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC systems and quantum computing systems.
 
 # Latest News
-* I presented our work on Performance Prediction Toolkit (PPT) at 4th
-Summer of CODES  
   
