@@ -7,9 +7,12 @@ author_profile: true
 
 Parallel Computing, Modeling and Simulation, Computer Networks, Software Engineering. I also enjoy teaching other core Computer Science courses, such as Programming Languages, Data Structure, Design and Analysis of Algorithms.
 
-## Current Teaching
+## Current Teaching 
 
-* Adjunct Faculty - [Florida International University](https://www.fiu.edu)
+* Adjunct Faculty - Florida International University
+  * CEN-4010: Software Engineering I (Fall 2018)
+
+* Adjunct Faculty - Barry University
 
 ## Previous Teaching
 
