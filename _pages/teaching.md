@@ -20,13 +20,19 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
   4. Programming II (Summer 2014)
   5. Operating Systems (Spring 2017, Spring 2018)
 
-* Lecturer - [University of Information Technology and Sciences](https://www.uits.edu.bd/)
-  1.
-
-## Miscellaneous Teaching
-
 * Research Experience for Teachers [(RET@FIU)](http://it2.fiu.edu/IT2_RET.php)
   * JavaScript (Summer 2015, Summer 2016)
+
+* Lecturer - [University of Information Technology and Sciences](https://www.uits.edu.bd/)
+  1. CSE 151: Computer Fundamentals and Web Technology
+  2. CSE 251: Computer Programming
+  3. CSE 252: Computer Programming Lab
+  4. CSE 205: Web Technology 
+  5. CSE 103: Structured Programming Language 
+  6. CSE 104: Structured Programming Language Lab 
+  7. CSE 301: Database Management System
+  8. CSE 213: Algorithms
+  9. CSE 214: Algorithms Lab
 
 ## Mentoring
 
