@@ -28,7 +28,7 @@ systems**. More specifically, my research interests include modeling and simulat
 
 * [April 22, 2018] Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” was accepted for publication at [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
 
-* [March 22, 2018] I defended my thesis titled “Energy Demand Response for High-Performance Computing Systems” on March 22, 2018!
+* [March 22, 2018] I defended my thesis titled “Energy Demand Response for High-Performance Computing Systems”!
 
 
 ## Selected Publications
