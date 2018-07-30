@@ -24,15 +24,8 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
   * JavaScript (Summer 2015, Summer 2016)
 
 * Lecturer - [University of Information Technology and Sciences](https://www.uits.edu.bd/)
-  1. CSE 151: Computer Fundamentals and Web Technology
-  2. CSE 251: Computer Programming
-  3. CSE 252: Computer Programming Lab
-  4. CSE 205: Web Technology 
-  5. CSE 103: Structured Programming Language 
-  6. CSE 104: Structured Programming Language Lab 
-  7. CSE 301: Database Management System
-  8. CSE 213: Algorithms
-  9. CSE 214: Algorithms Lab
+  * **Non-CS major courses:** Computer Fundamentals and Web Technology (CSE 151), Computer Programming (CSE 251), Computer Programming Lab (CSE 252)
+  * **Core CS courses:** Structured Programming Language (CSE 103), Structured Programming Language Lab (CSE 104), Web Technology (CSE 205), Database Management System (CSE 301), Algorithms (CSE 213), Algorithms Lab (CSE 214)
 
 ## Mentoring
 
