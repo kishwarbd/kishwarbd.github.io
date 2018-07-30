@@ -10,11 +10,11 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
 
 ## Current Teaching
 
-* Adjunct Faculty @ [FIU](https://www.fiu.edu)
+* Adjunct Faculty - [Florida International University](https://www.fiu.edu)
 
 ## Previous Teaching
 
-* Graduate Teaching Assistant - [FIU](https://www.fiu.edu)
+* Graduate Teaching Assistant - [Florida International University](https://www.fiu.edu)
   1. Introduction to Microcomputers Lab (Fall 2012, Spring 2013, Fall 2015, Summer 2016)
   2. Computer Data Analysis Lab (Fall 2012, Fall 2015)
   3. Programming I Lab (Summer 2013, Fall 2013, Spring 2014, Fall 2014, Spring 2015, Spring 2016, Fall 2016)
