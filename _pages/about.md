@@ -15,11 +15,11 @@ Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
 Master's in Computer Science from FIU in 2017 and my Bachelor's in
 Computer Science and Engineering from the [Department of Computer
 Sciences and Engineering](http://cse.buet.ac.bd) at [Bangladesh
-University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009.
+University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009. I was a Research Aide at [Argonne National Laboratory](https://www.anl.gov/) during Summer 2017. 
 
 My research interests are broadly in the areas of **high-performance
 computing (HPC) systems**, **cyber-physical systems**, and **quantum computing
-systems**. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC and quantum computing systems.
+systems**. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC and quantum computing systems.
 
 ## Latest News
 * [July 17, 2018] I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
