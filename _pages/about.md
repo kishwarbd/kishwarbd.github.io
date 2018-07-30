@@ -38,4 +38,10 @@ systems**. More specifically, my research interests include modeling and simulat
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper]](https://dl.acm.org/citation.cfm?id=2901396)
 
 * **Kishwar Ahmed**, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper]](https://ieeexplore.ieee.org/document/7372629/) (acceptance rate ~ 24%)
+
+* Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE TCC 2016](https://www.computer.org/web/tcc). [[paper]](https://ieeexplore.ieee.org/document/7420641/)
+
+* **Kishwar Ahmed**, Mohammad A. Islam, Shaolei Ren, and Gang Quan, “Can Data Center Become Water Self-Sufficient?,” at [USENIX HotPower 2014](https://www.usenix.org/conference/hotpower14). [[paper]](https://www.usenix.org/conference/hotpower14/technical-sessions/presentation/can-data-center-become-water-self-sufficient)
+
+
   
