@@ -179,7 +179,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  research:
+    output: true
+    permalink: /:collection/:path/
+  services:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -205,6 +210,24 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _services
+  - scope:
+      path: ""
+      type: services
     values:
       layout: single
       author_profile: true
