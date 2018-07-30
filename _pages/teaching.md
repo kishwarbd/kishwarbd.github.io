@@ -1,4 +1,5 @@
 ---
+title: “Teaching”
 permalink: /teaching/
 author_profile: true
 ---
@@ -9,10 +10,10 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
 
 ## Current Teaching 
 
-* Adjunct Faculty - Florida International University
+* Adjunct Faculty - [Florida International University](https://www.fiu.edu)
   * CEN-4010: Software Engineering I (Fall 2018)
 
-* Adjunct Faculty - Barry University
+* Adjunct Faculty - [Barry University](https://www.barry.edu/)
 
 ## Previous Teaching
 
