@@ -27,11 +27,11 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
 ## Miscellaneous Teaching
 
 * Research Experience for Teachers [(RET@FIU)](http://it2.fiu.edu/IT2_RET.php)
-  1. JavaScript (Summer 2015, Summer 2016)
+  * JavaScript (Summer 2015, Summer 2016)
 
 ## Mentoring
 
 * Research Experience for Undergraduates [(REU@FIU)](http://it2.fiu.edu/it2_REU.php)
   * __Student:__ Vance Turnewitsch
-  * __Paper:__ “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” at [(IEEE Allerton 2013)](http://allerton.csl.illinois.edu/). [[paper]](https://ieeexplore.ieee.org/document/6736705/) 
+  * __Paper:__ “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” at [IEEE Allerton 2013](http://allerton.csl.illinois.edu/). [[paper]](https://ieeexplore.ieee.org/document/6736705/) 
 
