@@ -31,7 +31,7 @@ We developed energy-efficient algorithms to reduce HPC systems’ energy consump
 
 ### Selected Publications
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)]
-* **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” at [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/), Exeter, UK, June 2018. [[paper](https://kishwarbd.github.io/files/paper-hpcc18.pdf)]
+* **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” at [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/). [[paper](https://kishwarbd.github.io/files/paper-hpcc18.pdf)]
 
 ### Collaborators
 * Xingfu Wu, [Argonne National Laboratory](https://www.anl.gov/)

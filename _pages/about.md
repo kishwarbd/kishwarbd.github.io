@@ -30,7 +30,7 @@ For more information, please check out [Kishwar Ahmed’s Curriculum Vitae](http
 
 * [April 22, 2018] Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” was accepted for publication at [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
 
-* [March 22, 2018] I defended my thesis titled [Energy Demand Response for High-Performance Computing Systems](http://digitalcommons.fiu.edu/etd/3569/)!
+* [March 22, 2018] I defended my thesis titled “[Energy Demand Response for High-Performance Computing Systems](http://digitalcommons.fiu.edu/etd/3569/)”!
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
