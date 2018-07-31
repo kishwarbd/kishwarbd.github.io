@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Kishwar Ahmed and I am an Adjunct Faculty at [Florida International
+Hi, I am Kishwar Ahmed. I am an Adjunct Faculty at [Florida International
 University (FIU)](https://www.fiu.edu). I received my Ph.D. in Computer Science from the
 [School of Computing and Information
 Sciences](https://www.cis.fiu.edu) at FIU under the supervision of [Prof.
@@ -35,15 +35,15 @@ For more information, please check out [Kishwar Ahmed’s Curriculum Vitae](http
 
 ## Selected Publications
 
-*  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper]](https://ieeexplore.ieee.org/document/8107444/) (acceptance rate = 23%)
+*  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)] (acceptance rate: 23.8%)
 
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper]](https://dl.acm.org/citation.cfm?id=2901396)
 
 * Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE TCC 2016](https://www.computer.org/web/tcc). [[paper]](https://ieeexplore.ieee.org/document/7420641/)
 
-* **Kishwar Ahmed**, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper]](https://ieeexplore.ieee.org/document/7372629/) (acceptance rate = 24%)
+* **Kishwar Ahmed**, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper]](https://ieeexplore.ieee.org/document/7372629/) (acceptance rate: 24.6%)
 
-* **Kishwar Ahmed**, Mohammad A. Islam, Shaolei Ren, and Gang Quan, “Can Data Center Become Water Self-Sufficient?,” at [USENIX HotPower 2014](https://www.usenix.org/conference/hotpower14). [[paper]](https://www.usenix.org/conference/hotpower14/technical-sessions/presentation/can-data-center-become-water-self-sufficient) (acceptance rate = 34%)
+* **Kishwar Ahmed**, Mohammad A. Islam, Shaolei Ren, and Gang Quan, “Can Data Center Become Water Self-Sufficient?,” at [USENIX HotPower 2014](https://www.usenix.org/conference/hotpower14). [[paper]](https://www.usenix.org/conference/hotpower14/technical-sessions/presentation/can-data-center-become-water-self-sufficient) (acceptance rate: 34%)
 
 
   
