@@ -1,5 +1,5 @@
 ---
-title: "Teaching and Mentoring”
+title: "Teaching and Mentoring"
 permalink: /teaching/
 author_profile: true
 ---
