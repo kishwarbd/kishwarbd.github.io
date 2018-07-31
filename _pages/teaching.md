@@ -14,7 +14,7 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
   * CEN 4010: Software Engineering I (Fall 2018)
 
 * Adjunct Faculty - [Barry University](https://www.barry.edu/)
-  * CS 180 - Introduction to Digital Literacy (Fall 2018)
+  * CS 180: Introduction to Digital Literacy (Fall 2018)
 
 ## Previous Teaching
 
