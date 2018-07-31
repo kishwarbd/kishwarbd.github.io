@@ -28,12 +28,12 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
   * JavaScript (Summer 2015, Summer 2016)
 
 * Lecturer - [University of Information Technology and Sciences](https://www.uits.edu.bd/)
-  * **Non-CS major courses:** Computer Fundamentals and Web Technology (CSE 151), Computer Programming (CSE 251), Computer Programming Lab (CSE 252)
-  * **Core CS courses:** Structured Programming Language (CSE 103), Structured Programming Language Lab (CSE 104), Web Technology (CSE 205), Database Management System (CSE 301), Algorithms (CSE 213), Algorithms Lab (CSE 214)
+  * **Non-CS Major Courses:** Computer Fundamentals and Web Technology, Computer Programming, Computer Programming Lab
+  * **Core CS Courses:** Structured Programming Language, Structured Programming Language Lab, Web Technology, Database Management System, Algorithms, Algorithms Lab
 
 ## Mentoring
 
 * Research Experience for Undergraduates [(REU@FIU)](http://it2.fiu.edu/it2_REU.php)
   * __Student:__ Vance Turnewitsch
-  * __Paper:__ “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” at [IEEE Allerton 2013](http://allerton.csl.illinois.edu/). [[paper]](https://ieeexplore.ieee.org/document/6736705/) 
+  * __Paper:__ “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” at [IEEE Allerton 2013](http://allerton.csl.illinois.edu/). [[paper](https://ieeexplore.ieee.org/document/6736705/)]
 
