@@ -21,6 +21,8 @@ My research interests are broadly in the areas of **high-performance
 computing (HPC) systems**, **cyber-physical systems**, and **quantum computing
 systems**. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC and quantum computing systems.
 
+For more information, please check out [Kishwar’s Curriculum Vitae](https://kishwarbd.github.io/files/kishwar-cv.pdf).
+
 ## Latest News
 * [July 17, 2018] I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 

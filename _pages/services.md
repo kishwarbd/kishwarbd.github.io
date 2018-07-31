@@ -17,18 +17,18 @@ author_profile: true
 
 ## Journal Reviewer
 
-* IEEE Transactions on Big Data [(TBD 2016)](https://www.computer.org/web/tbd)
+* IEEE Transactions on Big Data ([TBD 2016](https://www.computer.org/web/tbd))
 
-* IEICE Transactions on Information and Systems [(IEICE ISS 2018)](https://www.ieice.org/eng/shiori/mokuji_iss.html)
+* IEICE Transactions on Information and Systems ([IEICE ISS 2018](https://www.ieice.org/eng/shiori/mokuji_iss.html))
 
-* EEE Transactions on Cloud Computing 2018 [(TCC 2018)](https://www.computer.org/web/tcc)
+* EEE Transactions on Cloud Computing 2018 ([TCC 2018](https://www.computer.org/web/tcc))
 
 ## External Reviewer
 
-* IEEE International Conference on Cloud Computing [(Cloud 2015)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7194474)
+* IEEE International Conference on Cloud Computing ([Cloud 2015](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7194474))
 
 ## Member
 
-* Association for Computing Machinery [(ACM)](https://www.acm.org/) [2017-present]
+* Association for Computing Machinery ([ACM)](https://www.acm.org/)) [2017-present]
 
-* ACM Special Interest Group on Simulation [(ACM SIGSIM)](https://www.acm.org/special-interest-groups/sigs/sigsim) [2017-present]
+* ACM Special Interest Group on Simulation ([ACM SIGSIM)](https://www.acm.org/special-interest-groups/sigs/sigsim)) [2017-present]
