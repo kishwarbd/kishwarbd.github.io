@@ -80,8 +80,7 @@ analytics:
 author:
   name             : "Kishwar Ahmed"
   avatar           : "kishwar.jpg"
-  bio              : "Ph.D. in Computer Science, School of Computing
-and Information Sciences, Florida International University"
+  bio              : "PhD, Florida International University"
   location         : "Miami, FL, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=fhLNDhoAAAAJ&hl=en"
@@ -99,6 +98,7 @@ and Information Sciences, Florida International University"
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/kishwar-ahmed-05186b15" 
+  dblp             : "https://dblp.org/pers/hd/a/Ahmed:Kishwar"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -110,7 +110,6 @@ and Information Sciences, Florida International University"
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://dblp.org/pers/hd/a/Ahmed:Kishwar" 
   wikipedia        :  
 
 # Reading Files

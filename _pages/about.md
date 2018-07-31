@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Kishwar Ahmed. I am an Adjunct Faculty at [Florida International
-University (FIU)](https://www.fiu.edu). I received my Ph.D. in Computer Science from the
+Hi, I am Kishwar Ahmed. I am Adjunct Faculty at [Florida International
+University (FIU)](https://www.fiu.edu) and [Barry University](https://www.barry.edu/). I received my Ph.D. in Computer Science from the
 [School of Computing and Information
 Sciences](https://www.cis.fiu.edu) at FIU under the supervision of [Prof.
 Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
@@ -24,6 +24,7 @@ systems**. More specifically, my research interests include modeling and simulat
 For more information, please check out [Kishwar Ahmed’s Curriculum Vitae](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
+
 * [July 17, 2018] I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 
 * [July 5, 2018] Our paper titled “Energy Demand Response Modeling for High Performance Computing Systems” was accepted at [ModSim 2018](https://www.bnl.gov/modsim2018/)!
