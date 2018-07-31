@@ -21,9 +21,7 @@ PPT is a library of models of computational physics applications, middleware, an
 ### Collaborators
 
 * Stephan Eidenbenz, Director, ISTI, [Los Alamos National Laboratory](https://www.lanl.gov/)
-
 * Nandakishore Santhi, Staff Scientist, Computer, CCS-3, [Los Alamos National Laboratory](https://www.lanl.gov/)
-
 * Gopinath Chennupati, Postdoctoral Research Associate, CCS-3, [Los Alamos National Laboratory](https://www.lanl.gov/) 
 
 ## Energy-Efficient Modeling of HPC Systems
