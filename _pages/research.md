@@ -47,7 +47,7 @@ For owner-operated data centers, we proposed and developed various job schedulin
 Colocation data center is a special type of data center where multiple tenants own and operate servers. Colocation is widely existing and critical segment of data center industry, with over 1,400 data centers in the U.S. alone. We proposed and developed an emergency demand response participation model for colocation data center to reduce energy consumption through tenants’ collective energy reduction. Our developed model includes a rewarding scheme to incentivize the tenants to participate in energy reduction.    
 
 ### Selected Publications
-* Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE TCC 2016](https://www.computer.org/web/tcc). [[paper](https://ieeexplore.ieee.org/document/7420641/)]
+* Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, and Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE TCC 2016](https://www.computer.org/web/tcc). [[paper](https://ieeexplore.ieee.org/document/7420641/)]
 * **Kishwar Ahmed**, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper](https://ieeexplore.ieee.org/document/7372629/)]
 
 ### Collaborators

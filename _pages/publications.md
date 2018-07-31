@@ -17,7 +17,7 @@ author_profile: true
 * **Kishwar Ahmed**, Shaolei Ren, Vance Turnewitsch, and Athanasios V. Vasilakos, “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” In Proceedings of the 51st Annual Allerton Conference on Communications, Control and Computing ([Allerton 2013](http://allerton.csl.illinois.edu/)), Monticello, IL, October 2013. [[paper](https://ieeexplore.ieee.org/document/6736705/)]
 
 ## Journal Paper
-* Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” IEEE Transactions on Cloud Computing ([TCC 2016](https://www.computer.org/web/tcc)), February 2016. [[paper](https://ieeexplore.ieee.org/document/7420641/)]
+* Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, and Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” IEEE Transactions on Cloud Computing ([TCC 2016](https://www.computer.org/web/tcc)), February 2016. [[paper](https://ieeexplore.ieee.org/document/7420641/)]
 
 ## Book Chapter
 * **Kishwar Ahmed**, Shaolei Ren, Yuxiong He, and Athanasios V. Vasilakos, “Online Resource Management for Carbon-Neutral Cloud Computing,” [Handbook on Data Centers](https://www.springer.com/us/book/9781493920914), Edited by Samee Ullah Khan and Albert Y. Zomaya, March 2015. [[chapter](https://link.springer.com/chapter/10.1007/978-1-4939-2092-1_20)]
