@@ -12,7 +12,6 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
 
 * Adjunct Faculty - [Florida International University](https://www.fiu.edu)
   * CEN 4010: Software Engineering I (Fall 2018)
-
 * Adjunct Faculty - [Barry University](https://www.barry.edu/)
   * CS 180: Introduction to Digital Literacy (Fall 2018)
 
@@ -24,10 +23,8 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
   3. Programming I Lab (Summer 2013, Fall 2013, Spring 2014, Fall 2014, Spring 2015, Spring 2016, Fall 2016)
   4. Programming II (Summer 2014)
   5. Operating Systems (Spring 2017, Spring 2018)
-
 * Research Experience for Teachers [(RET@FIU)](http://it2.fiu.edu/IT2_RET.php)
   * JavaScript (Summer 2015, Summer 2016)
-
 * Lecturer - [University of Information Technology and Sciences](https://www.uits.edu.bd/)
   * **Non-CS Major Courses:** Computer Fundamentals and Web Technology, Computer Programming, Computer Programming Lab
   * **Core CS Courses:** Structured Programming Language, Structured Programming Language Lab, Web Technology, Database Management System, Algorithms, Algorithms Lab

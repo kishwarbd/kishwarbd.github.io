@@ -15,7 +15,6 @@ PPT is a library of models of computational physics applications, middleware, an
 
 ### Selected Publications
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper](https://dl.acm.org/citation.cfm?id=2901396)]
-
 * **Kishwar Ahmed**, Jason Liu, Stephan Eidenbenz, and Joe Zerr, “Scalable Interconnection Network Models for Rapid Performance Prediction of HPC Applications,” at [IEEE HPCC 2016](http://www.swinflow.org/confs/2016/hpcc/). [[paper](https://ieeexplore.ieee.org/document/7828492/)]
 
 ### Collaborators
