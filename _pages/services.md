@@ -29,6 +29,6 @@ author_profile: true
 
 ## Member
 
-* Association for Computing Machinery ([ACM)](https://www.acm.org/)) [2017-present]
+* Association for Computing Machinery ([ACM](https://www.acm.org/)) [2017-present]
 
-* ACM Special Interest Group on Simulation ([ACM SIGSIM)](https://www.acm.org/special-interest-groups/sigs/sigsim)) [2017-present]
+* ACM Special Interest Group on Simulation ([ACM SIGSIM](https://www.acm.org/special-interest-groups/sigs/sigsim)) [2017-present]
