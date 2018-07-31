@@ -14,7 +14,7 @@ author_profile: true
 ## Journal Reviewer
 * IEEE Transactions on Big Data ([TBD 2016](https://www.computer.org/web/tbd))
 * IEICE Transactions on Information and Systems ([IEICE ISS 2018](https://www.ieice.org/eng/shiori/mokuji_iss.html))
-* EEE Transactions on Cloud Computing 2018 ([TCC 2018](https://www.computer.org/web/tcc))
+* IEEE Transactions on Cloud Computing 2018 ([TCC 2018](https://www.computer.org/web/tcc))
 
 ## External Reviewer
 * IEEE International Conference on Cloud Computing ([Cloud 2015](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7194474))

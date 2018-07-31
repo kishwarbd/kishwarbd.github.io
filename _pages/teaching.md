@@ -15,11 +15,11 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
 
 ## Previous Teaching
 * Graduate Teaching Assistant - [Florida International University](https://www.fiu.edu)
-  1. Introduction to Microcomputers Lab (Fall 2012, Spring 2013, Fall 2015, Summer 2016)
-  2. Computer Data Analysis Lab (Fall 2012, Fall 2015)
-  3. Programming I Lab (Summer 2013, Fall 2013, Spring 2014, Fall 2014, Spring 2015, Spring 2016, Fall 2016)
-  4. Programming II (Summer 2014)
-  5. Operating Systems (Spring 2017, Spring 2018)
+  * Introduction to Microcomputers Lab (Fall 2012, Spring 2013, Fall 2015, Summer 2016)
+  * Computer Data Analysis Lab (Fall 2012, Fall 2015)
+  * Programming I Lab (Summer 2013, Fall 2013, Spring 2014, Fall 2014, Spring 2015, Spring 2016, Fall 2016)
+  * Programming II (Summer 2014)
+  * Operating Systems (Spring 2017, Spring 2018)
 * Research Experience for Teachers [(RET@FIU)](http://it2.fiu.edu/IT2_RET.php)
   * JavaScript (Summer 2015, Summer 2016)
 * Lecturer - [University of Information Technology and Sciences](https://www.uits.edu.bd/)
