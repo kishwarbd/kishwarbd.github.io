@@ -24,7 +24,6 @@ systems**. More specifically, my research interests include modeling and simulat
 For more information, please check out [Kishwar Ahmed’s Curriculum Vitae](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
-
 * [July 17, 2018] I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 
 * [July 5, 2018] Our paper titled “Energy Demand Response Modeling for High Performance Computing Systems” was accepted at [ModSim 2018](https://www.bnl.gov/modsim2018/)!
@@ -35,13 +34,9 @@ For more information, please check out [Kishwar Ahmed’s Curriculum Vitae](http
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
-
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)] (Acceptance rate: 23.8%)
-
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper](https://dl.acm.org/citation.cfm?id=2901396)]
-
 * Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE TCC 2016](https://www.computer.org/web/tcc). [[paper](https://ieeexplore.ieee.org/document/7420641/)]
-
 * **Kishwar Ahmed**, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper](https://ieeexplore.ieee.org/document/7372629/)] (Acceptance rate: 24.6%)
 
   

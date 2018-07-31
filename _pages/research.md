@@ -18,7 +18,6 @@ PPT is a library of models of computational physics applications, middleware, an
 * **Kishwar Ahmed**, Jason Liu, Stephan Eidenbenz, and Joe Zerr, “Scalable Interconnection Network Models for Rapid Performance Prediction of HPC Applications,” at [IEEE HPCC 2016](http://www.swinflow.org/confs/2016/hpcc/). [[paper](https://ieeexplore.ieee.org/document/7828492/)]
 
 ### Collaborators
-
 * Stephan Eidenbenz, Director, ISTI, [Los Alamos National Laboratory](https://www.lanl.gov/)
 * Nandakishore Santhi, Staff Scientist, Computer, CCS-3, [Los Alamos National Laboratory](https://www.lanl.gov/)
 * Gopinath Chennupati, Postdoctoral Research Associate, CCS-3, [Los Alamos National Laboratory](https://www.lanl.gov/) 

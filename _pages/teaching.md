@@ -5,18 +5,15 @@ author_profile: true
 ---
 
 ## Teaching Interests
-
 Parallel Computing, Modeling and Simulation, Computer Networks, Software Engineering. I also enjoy teaching other core Computer Science courses, such as Programming Languages, Data Structure, Design and Analysis of Algorithms.
 
 ## Current Teaching 
-
 * Adjunct Faculty - [Florida International University](https://www.fiu.edu)
   * CEN 4010: Software Engineering I (Fall 2018)
 * Adjunct Faculty - [Barry University](https://www.barry.edu/)
   * CS 180: Introduction to Digital Literacy (Fall 2018)
 
 ## Previous Teaching
-
 * Graduate Teaching Assistant - [Florida International University](https://www.fiu.edu)
   1. Introduction to Microcomputers Lab (Fall 2012, Spring 2013, Fall 2015, Summer 2016)
   2. Computer Data Analysis Lab (Fall 2012, Fall 2015)
@@ -30,7 +27,6 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
   * **Core CS Courses:** Structured Programming Language, Structured Programming Language Lab, Web Technology, Database Management System, Algorithms, Algorithms Lab
 
 ## Mentoring
-
 * Research Experience for Undergraduates [(REU@FIU)](http://it2.fiu.edu/it2_REU.php)
   * __Student:__ Vance Turnewitsch
   * __Paper:__ “Online Credibility Optimization and Power Control for Secure Mobile Crowdsourcing,” at [IEEE Allerton 2013](http://allerton.csl.illinois.edu/). [[paper](https://ieeexplore.ieee.org/document/6736705/)]
