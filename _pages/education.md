@@ -1,6 +1,6 @@
 ---
 title: "Education"
-permalink: /teaching/
+permalink: /education/
 author_profile: true
 ---
 
