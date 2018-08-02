@@ -1,5 +1,5 @@
 ---
-title: "Education and Employment"
+title: "Education"
 permalink: /teaching/
 author_profile: true
 ---
