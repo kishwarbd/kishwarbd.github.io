@@ -6,13 +6,22 @@ author_profile: true
 
 ## Education
 
-Ph.D. in Computer Science
+**Ph.D. in Computer Science**
 [Florida International University (FIU)](https://www.fiu.edu), (2012-2018)
 
-M.Sc. in Computer Science
+**M.Sc. in Computer Science**
 [Florida International University (FIU)](https://www.fiu.edu), (2012-2017)
 
-B.Sc. in Computer Science and Engineering
+**B.Sc. in Computer Science and Engineering**
 [Bangladesh University of Engineering and Technology (BUET)](http://buet.ac.bd), (2004-2009)
 
 ## Employment
+
+**Research Aide**
+[Argonne National Laboratory](https://www.anl.gov/) (May 2017 - July 2017)
+
+**Lecturer**
+[University of Information Technology and Sciences](https://www.uits.edu.bd/) (May 2010 - August 2012)
+
+**Software Engineer**
+[Aamra Solutions Limited](https://www.aamra.com.bd/) (December 2009 - May 2010)
