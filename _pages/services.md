@@ -6,7 +6,7 @@ author_profile: true
 
 ## Program Committee Member 
 * IEEE International Conference on Communications ([ICC 2018](http://icc2018.ieee-icc.org/))
-* International Conference on Computing, Networking and Communications ([ICNC 2016](http://www.conf-icnc.org/2016/), [ICNC 2017](http://www.conf-icnc.org/2017/), [ICNC 2018](http://www.conf-icnc.org/2018/))
+* International Conference on Computing, Networking and Communications ([ICNC 2016](http://www.conf-icnc.org/2016/), [ICNC 2017](http://www.conf-icnc.org/2017/), [ICNC 2018](http://www.conf-icnc.org/2018/), [ICNC 2019](http://www.conf-icnc.org/2019/))
 * The Third International Conference on Advances in Computation, Communications and Services ([ACCSE 2018](https://www.iaria.org/conferences2018/ACCSE18.html))
 * The Seventh International Conference on Communications, Computation, Networks and Technologies ([INNOV 2018](https://www.iaria.org/conferences2018/INNOV18.html))
 
