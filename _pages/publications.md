@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Book Chapter
+* **Kishwar Ahmed**, Shaolei Ren, Yuxiong He, and Athanasios V. Vasilakos, “Online Resource Management for Carbon-Neutral Cloud Computing,” [Handbook on Data Centers](https://www.springer.com/us/book/9781493920914), Edited by Samee Ullah Khan and Albert Y. Zomaya, March 2015. [[chapter](https://link.springer.com/chapter/10.1007/978-1-4939-2092-1_20)]
+
 ## Conference Papers
 * **Kishwar Ahmed**, Jesse Bull, and Jason Liu, “Contract-Based Demand Response Model for HPC Systems,” submitted for publication.
 * **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” to appear at IEEE International Conference on High Performance Computing and Communications ([HPCC 2018](https://cse.stfx.ca/~hpcc2018/)), Exeter, UK, June 2018. [[paper](https://kishwarbd.github.io/files/paper-hpcc18.pdf)]
@@ -18,9 +21,6 @@ author_profile: true
 
 ## Journal Paper
 * Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, and Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” IEEE Transactions on Cloud Computing ([TCC 2016](https://www.computer.org/web/tcc)), February 2016. [[paper](https://ieeexplore.ieee.org/document/7420641/)] (Impact factor: 7.93)
-
-## Book Chapter
-* **Kishwar Ahmed**, Shaolei Ren, Yuxiong He, and Athanasios V. Vasilakos, “Online Resource Management for Carbon-Neutral Cloud Computing,” [Handbook on Data Centers](https://www.springer.com/us/book/9781493920914), Edited by Samee Ullah Khan and Albert Y. Zomaya, March 2015. [[chapter](https://link.springer.com/chapter/10.1007/978-1-4939-2092-1_20)]
 
 ## Workshops Papers
 * **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” in Workshop on Modeling & Simulation of Systems and Applications ([ModSim 2018](https://www.bnl.gov/modsim2018/)), Seattle, WA, August 2018. [[paper](https://kishwarbd.github.io/files/paper-modsim18.pdf)]
