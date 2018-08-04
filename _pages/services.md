@@ -16,8 +16,11 @@ author_profile: true
 * IEICE Transactions on Information and Systems ([IEICE ISS 2018](https://www.ieice.org/eng/shiori/mokuji_iss.html))
 * IEEE Transactions on Cloud Computing 2018 ([TCC 2018](https://www.computer.org/web/tcc))
 
-## External Reviewer
+## Reviewer
 * IEEE International Conference on Cloud Computing ([Cloud 2015](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7194474))
+
+## Sub-reviewer
+
 
 ## Member
 * Association for Computing Machinery ([ACM](https://www.acm.org/)) [2017-present]
