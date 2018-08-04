@@ -15,10 +15,10 @@ author_profile: true
 
 ## Employment
 
-* **Adjunct Faculty**, June 2018 - present<br/>
-[Florida International University (FIU)](https://www.fiu.edu)
 * **Adjunct Faculty**, August 2018 - present<br/>
 [Barry University](https://www.barry.edu/)
+* **Adjunct Faculty**, June 2018 - present<br/>
+[Florida International University (FIU)](https://www.fiu.edu)
 * **Research Aide**, May 2017 - July 2017<br/>
 [Argonne National Laboratory](https://www.anl.gov/) 
 * **Lecturer**, May 2010 - August 2012<br/>
