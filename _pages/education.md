@@ -13,7 +13,7 @@ Supervisor: [Prof. Jason Liu](http://people.cis.fiu.edu/liux/)
 [Florida International University (FIU)](https://www.fiu.edu)
 * **B.Sc. in Computer Science and Engineering**, October 2009<br/>
 [Bangladesh University of Engineering and Technology (BUET)](http://buet.ac.bd)<br/>
-Supervisor: [Prof. Saidur Rahman](https://saidurrahman.buet.ac.bd/)
+Undergraduate Thesis Supervisor: [Prof. Saidur Rahman](https://saidurrahman.buet.ac.bd/)
 
 ## Employment
 
