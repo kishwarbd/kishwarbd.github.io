@@ -40,7 +40,7 @@ We developed energy-efficient algorithms to reduce HPC systems’ energy consump
 
 ## Sustainability of Cyber-Physical Systems
 ### Overview
-Data centers are considered as one of the most critical types of cyber-physical systems (CPSs). Data centers have major sustainability issues (e.g., energy consumption, carbon emission, water consumption). We addressed such sustainability concerns for two different types of data centers: 1) Traditional owner-operated data centers (e.g., Google data centers), 2) Multi-tenant colocation data centers.
+Data centers are considered one of the most critical types of cyber-physical systems. Data centers have a number of sustainability issues, such as massive energy consumption, significant carbon emission, etc. We addressed such sustainability concerns for two different types of data centers: 1) Owner-operated data centers (e.g., Google data centers), and 2) Multi-tenant colocation data centers.
 
 For owner-operated data centers, we proposed and developed various job scheduling and resource allocation models to address massive energy consumption and carbon emission issues. Based on Lyapunov optimization technique, we developed algorithms to reduce energy consumption and carbon emission in the absence of far-future information (e.g., electricity price, renewable energy). While data centers are notorious for huge energy consumption due to power-hungry servers, data centers are responsible for massive energy consumption, evaporating millions of gallons of water each day. We developed algorithms to reduce operational cost (including energy cost and water consumption) of data centers.
 
