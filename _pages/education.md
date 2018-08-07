@@ -7,12 +7,12 @@ author_profile: true
 ## Education
 
 * **Ph.D. in Computer Science**, April 2018<br/>
-[Florida International University (FIU)](https://www.fiu.edu)
+[Florida International University (FIU)](https://www.fiu.edu)<br/>
 Supervisor: [Prof. Jason Liu](http://people.cis.fiu.edu/liux/)
 * **M.Sc. in Computer Science**, April 2017<br/>
 [Florida International University (FIU)](https://www.fiu.edu)
 * **B.Sc. in Computer Science and Engineering**, October 2009<br/>
-[Bangladesh University of Engineering and Technology (BUET)](http://buet.ac.bd)
+[Bangladesh University of Engineering and Technology (BUET)](http://buet.ac.bd)<br/>
 Supervisor: [Prof. Saidur Rahman](https://saidurrahman.buet.ac.bd/)
 
 ## Employment
