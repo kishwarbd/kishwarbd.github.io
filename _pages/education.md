@@ -21,8 +21,12 @@ Undergraduate Thesis Supervisor: [Prof. Saidur Rahman](https://saidurrahman.buet
 [Barry University](https://www.barry.edu/)
 * **Adjunct Faculty**, June 2018 - present<br/>
 [Florida International University (FIU)](https://www.fiu.edu)
+* **Research Assistant**, August 2017 - April 2018<br/>
+[Florida International University (FIU)](https://www.fiu.edu)
 * **Research Aide**, May 2017 - July 2017<br/>
 [Argonne National Laboratory](https://www.anl.gov/) 
+* **Teaching Assistant**, August 2012 - April 2017<br/>
+[Florida International University (FIU)](https://www.fiu.edu)
 * **Lecturer**, May 2010 - August 2012<br/>
 [University of Information Technology and Sciences](https://www.uits.edu.bd/)
 * **Software Engineer**, December 2009 - May 2010<br/>
