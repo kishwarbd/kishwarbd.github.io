@@ -21,6 +21,7 @@ PPT is a library of models of computational physics applications, middleware, an
 * Stephan Eidenbenz, [Los Alamos National Laboratory](https://www.lanl.gov/)
 * Nandakishore Santhi, [Los Alamos National Laboratory](https://www.lanl.gov/)
 * Gopinath Chennupati, [Los Alamos National Laboratory](https://www.lanl.gov/) 
+* Abdel-Hameed Badawy, [New Mexico State University](https://nmsu.edu/) 
 
 ## Energy-Efficient Modeling of HPC Systems
 
