@@ -24,6 +24,9 @@ systems**. More specifically, my research interests include modeling and simulat
 For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
+
+* [August 15, 2018] I gave a talk titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
+
 * [July 17, 2018] I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 
 * [July 5, 2018] Our paper titled “Energy Demand Response Modeling for High Performance Computing Systems” was accepted at [ModSim 2018](https://www.bnl.gov/modsim2018/)!
