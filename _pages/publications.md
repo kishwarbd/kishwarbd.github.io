@@ -27,7 +27,7 @@ author_profile: true
 * **Kishwar Ahmed**, Mohammad A. Islam, Shaolei Ren, and Gang Quan, “Can Data Center Become Water Self-Sufficient?,” in 6th Usenix Workshop on Power-Aware Computing and Systems ([HotPower 2014](https://www.usenix.org/conference/hotpower14)) held with USENIX [OSDI 2014](https://www.usenix.org/conference/osdi14), Broomfield, CO, October 2014. [[paper](https://www.usenix.org/conference/hotpower14/technical-sessions/presentation/can-data-center-become-water-self-sufficient)] (Acceptance rate: 34%)
 
 ## Posters
-* **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” in Workshop on Modeling & Simulation of Systems and Applications ([ModSim 2018](https://www.bnl.gov/modsim2018/)), Seattle, WA, August 2018. 
+* **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” in Workshop on Modeling & Simulation of Systems and Applications ([ModSim 2018](https://www.bnl.gov/modsim2018/)), Seattle, WA, August 2018. [[poster](https://kishwarbd.github.io/files/slides/modsim18.pdf)]
 * Samia Tasnim, **Kishwar Ahmed**, Niki Pissinou, and S. S. Iyengar, “Offloading Code Efficiently on Mobile Cloud,” Poster in Grace Hopper Celebration of Women in Computing ([GHC 2015](https://ghc.anitab.org/)), Houston, TX, October 2015.
 
 
