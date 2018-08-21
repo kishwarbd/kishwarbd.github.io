@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi, I am Kishwar Ahmed. I am an Adjunct Faculty at [Florida International
-University (FIU)](https://www.fiu.edu). I received my Ph.D. in Computer Science from the
+University (FIU)](https://www.fiu.edu) and [Barry University](https://www.barry.edu/). I received my Ph.D. in Computer Science from the
 [School of Computing and Information
 Sciences](https://www.cis.fiu.edu) at FIU under the supervision of [Prof.
 Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my

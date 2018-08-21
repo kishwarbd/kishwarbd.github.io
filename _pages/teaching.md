@@ -9,7 +9,7 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
 
 ## Current Teaching 
 * Adjunct Faculty - [Barry University](https://www.barry.edu/)
-  * CS 180: Introduction to Computer Systems (Fall 2018)
+  * CS 180: Introduction to Digital Literacy (Fall 2018)
 
 ## Previous Teaching
 * Graduate Teaching Assistant - [Florida International University](https://www.fiu.edu)
