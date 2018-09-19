@@ -24,7 +24,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
-* [August 31, 2018] Submitted a paper at [ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)
+* [August 31, 2018] Submitted a paper at [ISPA 2018](http://www.swinflow.org/confs/2018/ispa/).
 
 * [August 15, 2018] I gave a talk titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
 
