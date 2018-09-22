@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Kishwar Ahmed. I received my Ph.D. in Computer Science from the
+Hi, I am Kishwar Ahmed. I received my Ph.D. in Computer Science from the
 [School of Computing and Information
-Sciences](https://www.cis.fiu.edu) at FIU under the supervision of [Prof.
+Sciences](https://www.cis.fiu.edu) at [Florida International University](https://www.fiu.edu/) under the supervision of [Prof.
 Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
 Master's in Computer Science from FIU in 2017 and my Bachelor's in
 Computer Science and Engineering from the [Department of Computer
