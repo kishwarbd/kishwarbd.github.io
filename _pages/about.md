@@ -24,13 +24,13 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
-* [August 31, 2018] Submitted a paper at [ISPA 2018](http://www.swinflow.org/confs/2018/ispa/).
+* [September 29, 2018] Our paper titled “Contract-Based Demand Response Model for High Performance Computing Systems” has been accepted in [ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)!
 
-* [August 15, 2018] I gave a talk titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
+* [August 15, 2018] Presented our work titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
 
-* [July 17, 2018] I gave a talk titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
+* [July 17, 2018] Presented our work titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 
-* [April 22, 2018] Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” has been accepted at [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
+* [April 22, 2018] Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” has been accepted in [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
 
 * [March 22, 2018] I defended my Ph.D. thesis titled “[Energy Demand Response for High-Performance Computing Systems](http://digitalcommons.fiu.edu/etd/3569/)”.
 
