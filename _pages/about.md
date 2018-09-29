@@ -24,7 +24,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
-* [September 29, 2018] Our paper titled “Contract-Based Demand Response Model for High Performance Computing Systems” has been accepted in [ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)!
+* [September 29, 2018] Our paper titled “Contract-Based Demand Response Model for High Performance Computing Systems” has been accepted in [IEEE ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)!
 
 * [August 15, 2018] Presented our work titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
 
