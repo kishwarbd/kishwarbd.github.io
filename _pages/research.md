@@ -18,10 +18,9 @@ PPT is a library of models of computational physics applications, middleware, an
 * **Kishwar Ahmed**, Jason Liu, Stephan Eidenbenz, and Joe Zerr, “Scalable Interconnection Network Models for Rapid Performance Prediction of HPC Applications,” at [IEEE HPCC 2016](http://www.swinflow.org/confs/2016/hpcc/). [[paper](https://ieeexplore.ieee.org/document/7828492/)]
 
 ### Collaborators
-* Stephan Eidenbenz, [Los Alamos National Laboratory](https://www.lanl.gov/)
-* Nandakishore Santhi, [Los Alamos National Laboratory](https://www.lanl.gov/)
-* Gopinath Chennupati, [Los Alamos National Laboratory](https://www.lanl.gov/) 
-* Abdel-Hameed Badawy, [New Mexico State University](https://nmsu.edu/) 
+* Stephan Eidenbenz, [Los Alamos National Laboratory](https://www.lanl.gov/expertise/profiles/view/stephan-eidenbenz)
+* Nandakishore Santhi, [Los Alamos National Laboratory](https://cnls.lanl.gov/External/people/Nandakishore_Santhi.php) 
+* Abdel-Hameed Badawy, [New Mexico State University](https://ece.nmsu.edu/faculty-staff/badawy/) 
 
 ## Energy-Efficient Modeling of HPC Systems
 
@@ -35,9 +34,9 @@ We developed energy-efficient algorithms to reduce HPC systems’ energy consump
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)]
 
 ### Collaborators
-* Xingfu Wu, [Argonne National Laboratory](https://www.anl.gov/)
-* Kazutomo Yoshii, [Argonne National Laboratory](https://www.anl.gov/)
-* Jesse Bull, [Department of Economics, FIU](https://economics.fiu.edu/)
+* Xingfu Wu, [Argonne National Laboratory](https://www.anl.gov/profile/xingfu-wu)
+* Kazutomo Yoshii, [Argonne National Laboratory](https://www.mcs.anl.gov/~kazutomo/)
+* Jesse Bull, [Department of Economics, FIU](https://economics.fiu.edu/people/full-time-faculty/jesse-bull/)
 
 ## Sustainability of Cyber-Physical Systems
 ### Overview
@@ -52,6 +51,5 @@ Colocation data center is a special type of data center where multiple tenants o
 * **Kishwar Ahmed**, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper](https://ieeexplore.ieee.org/document/7372629/)]
 
 ### Collaborators
-* Mohammad Atiqul Islam, [University of California, Riverside](https://www.ucr.edu/)
-* Gang Quan, [Department of Electrical and Computer Engineering, FIU](http://www.ece.fiu.edu/)
+* Mohammad Atiqul Islam, [University of California, Riverside](http://www.mohammadatiqulislam.com/)
 
