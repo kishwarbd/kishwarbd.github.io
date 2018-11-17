@@ -24,7 +24,9 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
-* [October 8, 2018] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([PADS 2019](https://www.acm-sigsim-pads.org/)).
+* [November 15, 2018] I will serve as reviewer for the ACM Transactions on Modeling and Computer Simulation ([ACM TOMACS](https://tomacs.acm.org/)).
+
+* [October 8, 2018] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
 
 * [September 30, 2018] I will serve in the Program Committee for The Fourth International Conference on Advances in Computation, Communications and Services ([ACCSE 2019](http://www.iaria.org/conferences2019/ACCSE19.html)).
 
