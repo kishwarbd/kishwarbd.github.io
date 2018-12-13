@@ -32,6 +32,8 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [September 29, 2018] Our paper titled “Contract-Based Demand Response Model for High Performance Computing Systems” has been accepted in [IEEE ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)!
 
+* [September 4, 2018] Our paper titled “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers” has been published in [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc).
+
 * [August 15, 2018] Presented our work titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
 
 * [August 2, 2018] I will serve in the Program Committee for International Conference on Computing, Networking and Communications ([ICNC 2019](http://www.conf-icnc.org/2019/)).
