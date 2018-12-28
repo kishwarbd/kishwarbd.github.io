@@ -35,11 +35,11 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [September 4, 2018] Our paper titled “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers” has been published in [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc).
 
-* [August 15, 2018] Presented our work titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
+* [August 15, 2018] I presented our work titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
 
 * [August 2, 2018] I will serve in the Program Committee for International Conference on Computing, Networking and Communications ([ICNC 2019](http://www.conf-icnc.org/2019/)).
 
-* [July 17, 2018] Presented our work titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
+* [July 17, 2018] I presented our work titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 
 * [April 22, 2018] Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” has been accepted in [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
 
