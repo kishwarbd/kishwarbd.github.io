@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 Hi, I am Kishwar Ahmed. I received my Ph.D. in Computer Science from the
-[School of Computing and Information
-Sciences](https://www.cis.fiu.edu) at [Florida International University](https://www.fiu.edu/) under the supervision of [Prof.
+School of Computing and Information
+Sciences at [Florida International University](https://www.fiu.edu/) under the supervision of [Prof.
 Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
 Master's in Computer Science from FIU in 2017 and my Bachelor's in
-Computer Science and Engineering from the [Department of Computer
-Sciences and Engineering](http://cse.buet.ac.bd) at [Bangladesh
+Computer Science and Engineering from the Department of Computer
+Sciences and Engineering at [Bangladesh
 University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009. I was a Research Aide at [Argonne National Laboratory](https://www.anl.gov/) during Summer 2017. 
 
 My research interests are broadly in the areas of **high-performance
@@ -23,6 +23,7 @@ systems**. More specifically, my research interests include modeling and simulat
 For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
+* [December 7, 2018] I will serve in the Program Committee for The Eighth International Conference on Communications, Computation, Networks and Technologies ([INNOV 2019](http://www.iaria.org/conferences2019/INNOV19.html)).
 
 * [November 15, 2018] I will serve as a reviewer at the ACM Transactions on Modeling and Computer Simulation ([ACM TOMACS](https://mc.manuscriptcentral.com/tomacs)).
 
