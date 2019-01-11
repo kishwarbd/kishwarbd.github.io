@@ -23,9 +23,9 @@ systems**. More specifically, my research interests include modeling and simulat
 For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
-* [December 7, 2018] I will serve in the Program Committee for The Eighth International Conference on Communications, Computation, Networks and Technologies ([INNOV 2019](http://www.iaria.org/conferences2019/INNOV19.html)).
+* [January 11, 2019] I will serve in the Program Committee for The 12th International Workshop on Applied Modeling and Simulation ([WMAS 2019](http://www.msc-les.org/conf/wams2019/index.html)).
 
-* [November 15, 2018] I will serve as a reviewer at the ACM Transactions on Modeling and Computer Simulation ([ACM TOMACS](https://mc.manuscriptcentral.com/tomacs)).
+* [December 7, 2018] I will serve in the Program Committee for The Eighth International Conference on Communications, Computation, Networks and Technologies ([INNOV 2019](http://www.iaria.org/conferences2019/INNOV19.html)).
 
 * [October 8, 2018] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
 
@@ -35,7 +35,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [September 4, 2018] Our paper titled “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers” has been published in [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc).
 
-* [August 15, 2018] I presented our work titled “Energy Demand Response Modeling for High Performance Computing Systems” at [ModSim 2018](https://www.bnl.gov/modsim2018/).
+* [August 15, 2018] Our poster titled “Energy Demand Response Modeling for High Performance Computing Systems” has been accepted in [ModSim 2018](https://www.bnl.gov/modsim2018/).
 
 * [August 2, 2018] I will serve in the Program Committee for International Conference on Computing, Networking and Communications ([ICNC 2019](http://www.conf-icnc.org/2019/)).
 
@@ -49,5 +49,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper](https://dl.acm.org/citation.cfm?id=2901396)]
 * Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, and Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc). [[paper](https://ieeexplore.ieee.org/document/7420641/)] **(Impact factor: 7.93)**
 * **Kishwar Ahmed**, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper](https://ieeexplore.ieee.org/document/7372629/)] **(Acceptance rate: 24.6%)**
+* Mohammad A. Islam, **Kishwar Ahmed**, Shaolei Ren, and Gang Quan, “Exploiting Temporal Diversity of Water Efficiency to Make Data Center Less “Thirsty”,” at [USENIX ICAC 2014](https://www.usenix.org/conference/icac14)). [[paper](https://www.usenix.org/node/183093)] **(Acceptance rate: 20.3%)**
+* **Kishwar Ahmed**, Mohammad A. Islam, Shaolei Ren, and Gang Quan, “Can Data Center Become Water Self-Sufficient?,” at [USENIX HotPower 2014](https://www.usenix.org/conference/hotpower14). [[paper](https://www.usenix.org/conference/hotpower14/technical-sessions/presentation/can-data-center-become-water-self-sufficient)] **(Acceptance rate: 34%)**
 
   
