@@ -29,8 +29,6 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [October 8, 2018] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
 
-* [September 30, 2018] I will serve in the Program Committee for The Fourth International Conference on Advances in Computation, Communications and Services ([ACCSE 2019](http://www.iaria.org/conferences2019/ACCSE19.html)).
-
 * [September 29, 2018] Our paper titled “Contract-Based Demand Response Model for High Performance Computing Systems” has been accepted in [IEEE ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)!
 
 * [September 4, 2018] Our paper titled “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers” has been published in [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc).
