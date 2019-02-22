@@ -8,15 +8,15 @@ author_profile: true
 Parallel Computing, Modeling and Simulation, Computer Networks, Software Engineering. I also enjoy teaching other core Computer Science courses, such as Programming Languages, Data Structure, Design and Analysis of Algorithms.
 
 ## Current Teaching 
-* Adjunct Faculty - [Florida International University](https://www.fiu.edu/)
+* Lecturer - [Florida International University](https://www.fiu.edu/)
   * CNT 4513: Data Communications (Spring 2019)
   * CNT 4713: Net-Centric Computing (Spring 2019)
-* Adjunct Faculty - [Barry University](https://www.barry.edu/)
+* Lecturer - [Barry University](https://www.barry.edu/)
   * CS 340: Programming for the Web (Spring 2019)
   * CS 477: Computer Security (Spring 2019)
 
 ## Previous Teaching
-* Adjunct Faculty   
+* Lecturer   
   * CS 180: Introduction to Digital Literacy (Fall 2018)
   * ENG 557: Computer Architecture and Design (Fall 2018)
 * Graduate Teaching Assistant - [Florida International University](https://www.fiu.edu)
