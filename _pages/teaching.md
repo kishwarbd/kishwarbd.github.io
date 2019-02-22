@@ -11,9 +11,6 @@ Parallel Computing, Modeling and Simulation, Computer Networks, Software Enginee
 * Lecturer - [Florida International University](https://www.fiu.edu/)
   * CNT 4513: Data Communications (Spring 2019)
   * CNT 4713: Net-Centric Computing (Spring 2019)
-* Lecturer - [Barry University](https://www.barry.edu/)
-  * CS 340: Programming for the Web (Spring 2019)
-  * CS 477: Computer Security (Spring 2019)
 
 ## Previous Teaching
 * Lecturer   
