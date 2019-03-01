@@ -17,9 +17,7 @@ Undergraduate Thesis Supervisor: [Prof. Saidur Rahman](https://saidurrahman.buet
 
 ## Employment
 
-* **Adjunct Faculty**, August 2018 - present<br/>
-[Barry University](https://www.barry.edu/)
-* **Adjunct Faculty**, June 2018 - present<br/>
+* **Lecturer**, June 2018 - present<br/>
 [Florida International University (FIU)](https://www.fiu.edu)
 * **Research Assistant**, August 2017 - April 2018<br/>
 [Florida International University (FIU)](https://www.fiu.edu)
