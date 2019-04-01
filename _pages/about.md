@@ -23,7 +23,6 @@ systems**. More specifically, my research interests include modeling and simulat
 For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
-* [January 11, 2019] I will serve in the Program Committee for The 12th International Workshop on Applied Modeling and Simulation ([WMAS 2019](http://www.msc-les.org/conf/wams2019/index.html)).
 
 * [October 8, 2018] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
 
