@@ -24,7 +24,11 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
+* [May 6, 2019] I received travel grant to attend ([NSF MERIF Education Workshop](http://merif.seas.gwu.edu/))!  
+
 * [April 16, 2019] I will serve in the Program Committee for the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
+
+* [February 18, 2019] I will join ([Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/)) at ([University of South Carolina Beaufort](https://www.uscb.edu/)) as a tenure-track Assistant Professor from Fall 2019! 
 
 * [October 8, 2018] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
 

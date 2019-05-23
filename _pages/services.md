@@ -14,6 +14,7 @@ author_profile: true
 
 
 ## Journal Reviewer
+* Elsevier ([SoftwareX](https://www.journals.elsevier.com/softwarex))
 * ACM Transactions on Modeling and Computer Simulation ([ACM TOMACS](https://tomacs.acm.org/))
 * IEICE Transactions on Information and Systems ([IEICE ISS](https://www.ieice.org/eng/shiori/mokuji_iss.html))
 * IEEE Transactions on Cloud Computing ([IEEE TCC](https://www.computer.org/web/tcc))
