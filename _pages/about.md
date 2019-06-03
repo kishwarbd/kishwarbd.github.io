@@ -24,6 +24,8 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
+* [June 2, 2019] Our paper titled “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems” has been accepted in [WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)!
+
 * [April 16, 2019] I will serve in the Program Committee for the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
 
 * [February 18, 2019] I will join [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/) as a tenure-track Assistant Professor from Fall 2019! 
