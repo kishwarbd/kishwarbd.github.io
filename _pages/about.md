@@ -24,7 +24,11 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
+* [June 3, 2019] I received travel grant to attend [2019 NSF Aspiring CSR PIs Workshop](https://www.cs.purdue.edu/homes/ayg/APW/html/).
+
 * [June 2, 2019] Our paper titled “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems” has been accepted in [WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)!
+
+* [May 6, 2019] I received faculty travel grant to attend [NSF MERIF Education Workshop](http://merif.seas.gwu.edu/). 
 
 * [April 16, 2019] I will serve in the Program Committee for the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
 
@@ -39,8 +43,6 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 * [August 15, 2018] Our poster titled “Energy Demand Response Modeling for High Performance Computing Systems” has been accepted in [ModSim 2018](https://www.bnl.gov/modsim2018/).
 
 * [August 2, 2018] I will serve in the Program Committee for International Conference on Computing, Networking and Communications ([ICNC 2019](http://www.conf-icnc.org/2019/)).
-
-* [July 17, 2018] I presented our work titled “Interconnection Network Models for Large-Scale Performance Prediction” at [Summer of CODES 2018](https://press3.mcs.anl.gov/summerofcodes2018/).
 
 * [April 22, 2018] Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” has been accepted in [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
 
