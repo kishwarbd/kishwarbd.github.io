@@ -28,5 +28,5 @@ author_profile: true
 * IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems ([IEEE MASCOTS 2019](https://sites.google.com/view/mascots-2019))
 
 ## Member
-* Association for Computing Machinery ([ACM](https://www.acm.org/)) [2017-present]
-* ACM Special Interest Group on Simulation ([ACM SIGSIM](https://www.acm.org/special-interest-groups/sigs/sigsim)) [2017-present]
+* Association for Computing Machinery ([ACM](https://www.acm.org/)) [2017-2018]
+* ACM Special Interest Group on Simulation ([ACM SIGSIM](https://www.acm.org/special-interest-groups/sigs/sigsim)) [2017-2018]
