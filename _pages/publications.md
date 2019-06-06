@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Conference Papers
-* **Kishwar Ahmed**, and Jason Liu, “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems,“ to appear at the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/))
+* **Kishwar Ahmed**, and Jason Liu, “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems,“ to appear at the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
 * **Kishwar Ahmed**, Jesse Bull, and Jason Liu, “Contract-Based Demand Response Model for HPC Systems,” in Proceedings of the 16th IEEE International Symposium on Parallel and Distributed Processing with Applications ([ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)), Melbourne, Australia, December 2018. DOI 10.1109/BDCloud.2018.00091. [[paper](https://ieeexplore.ieee.org/document/8672277)]
 * **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” in Proceedings of the IEEE International Conference on High Performance Computing and Communications ([HPCC 2018](https://cse.stfx.ca/~hpcc2018/)), Exeter, UK, June 2018. DOI 10.1109/HPCC/SmartCity/DSS.2018.00133. [[paper](https://ieeexplore.ieee.org/abstract/document/8622871/)] **(Acceptance rate: 30%)**
 * **Kishwar Ahmed**, Jason Liu, Abdel-Hameed Badawy, and Stephan Eidenbenz, “A Brief History of HPC Simulation and Future Challenges,” in Proceedings of the IEEE Winter Simulation Conference ([WSC 2017](http://meetings2.informs.org/wordpress/wsc2017/)), Las Vegas, NV, December 2017. DOI 10.1109/WSC.2017.8247804. [[paper](https://ieeexplore.ieee.org/document/8247804)]
