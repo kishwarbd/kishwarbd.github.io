@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Kishwar Ahmed. I received my Ph.D. in Computer Science from the
+Hi, I am Kishwar Ahmed. I am an Assistant Professor at [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/). I received my Ph.D. in Computer Science from the
 School of Computing and Information
 Sciences at [Florida International University (FIU)](https://www.fiu.edu/) under the supervision of [Prof.
 Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
@@ -17,34 +17,25 @@ Sciences and Engineering at [Bangladesh
 University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009. I was a Research Aide at [Argonne National Laboratory](https://www.anl.gov/) during Summer 2017. 
 
 My research interests are broadly in the areas of **high-performance
-computing (HPC) systems**, **cyber-physical systems**, and **quantum computing
-systems**. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC and quantum computing systems.
+computing (HPC) systems** and **cyber-physical systems**. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC and quantum computing systems.
 
 For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
 
-* [June 3, 2019] I received travel grant to attend [2019 NSF Aspiring CSR PIs Workshop](https://www.cs.purdue.edu/homes/ayg/APW/html/).
+* [08/2019] I joined [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/) as an Assistant Professor.
 
-* [June 2, 2019] Our paper titled “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems” has been accepted in [WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)!
+* [07/2019] I will serve in the Technical Program Committee for the International Conference on Computing, Networking and Communication (ICNC) ([ICNC 2020](http://www.conf-icnc.org/2020/)).
 
-* [May 6, 2019] I received faculty travel grant to attend [NSF MERIF Education Workshop](http://merif.seas.gwu.edu/). 
+* [07/2019] I was awarded NSF travel grant to attend [NeTS Early Career Workshop](https://sites.google.com/view/netsearlycareer2019/home), Alexandria, VA, August 5-6, 2019.
 
-* [April 16, 2019] I will serve in the Program Committee for the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
+* [06/2019] I was awarded NSF travel grant to attend [2019 NSF Aspiring CSR PIs Workshop](https://www.cs.purdue.edu/homes/ayg/APW/html/), Alexandria, VA, June 20-21, 2019.
 
-* [February 18, 2019] I will join [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/) as a tenure-track Assistant Professor from Fall 2019.
+* [06/2019] Our paper titled “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems” has been accepted in [WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/).
 
-* [October 8, 2018] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
+* [05/2019] I was awarded faculty travel grant to attend [NSF MERIF Education Workshop](http://merif.seas.gwu.edu/), Washington, DC, May 29-30, 2019. 
 
-* [September 29, 2018] Our paper titled “Contract-Based Demand Response Model for High Performance Computing Systems” has been accepted in [IEEE ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)!
-
-* [September 4, 2018] Our paper titled “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers” has been published in [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc).
-
-* [August 15, 2018] Our poster titled “Energy Demand Response Modeling for High Performance Computing Systems” has been accepted in [ModSim 2018](https://www.bnl.gov/modsim2018/).
-
-* [August 2, 2018] I will serve in the Program Committee for International Conference on Computing, Networking and Communications ([ICNC 2019](http://www.conf-icnc.org/2019/)).
-
-* [April 22, 2018] Our paper titled “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling” has been accepted in [IEEE HPCC 2018](https://cse.stfx.ca/~hpcc2018/)! 
+* [04/2019] I will serve in the Technical Program Committee for the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
