@@ -27,7 +27,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [08/2019] I joined [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/) as an Assistant Professor.
 
-* [07/2019] I will serve in the Technical Program Committee for the International Conference on Computing, Networking and Communication (ICNC) ([ICNC 2020](http://www.conf-icnc.org/2020/)).
+* [07/2019] I will serve in the Technical Program Committee for the International Conference on Computing, Networking and Communication ([ICNC 2020](http://www.conf-icnc.org/2020/)).
 
 * [07/2019] I was awarded NSF travel grant to attend [NeTS Early Career Workshop](https://sites.google.com/view/netsearlycareer2019/home), Alexandria, VA, August 5-6, 2019.
 
