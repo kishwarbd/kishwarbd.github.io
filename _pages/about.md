@@ -17,11 +17,13 @@ Sciences and Engineering at [Bangladesh
 University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009. I was a Research Aide at [Argonne National Laboratory](https://www.anl.gov/) during Summer 2017. 
 
 My research interests are broadly in the areas of **high-performance
-computing (HPC) systems** and **cyber-physical systems**. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of the HPC and quantum computing systems.
+computing (HPC) systems** and **cyber-physical systems**. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of HPC systems.
 
 For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
+
+* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
 
 * [09/2019] I was awarded travel grant to attend [NSF MERIT Workshop](https://icnp19.cs.ucr.edu/merit.html), Chicago, IL, October 7, 2019.
 
