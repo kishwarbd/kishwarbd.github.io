@@ -8,14 +8,18 @@ author_profile: true
 Parallel Computing, Modeling and Simulation, Computer Networks, Software Engineering. I also enjoy teaching other core Computer Science courses, such as Programming Languages, Data Structure, Design and Analysis of Algorithms.
 
 ## Current Teaching 
-* Lecturer - [Florida International University](https://www.fiu.edu/)
-  * CNT 4513: Data Communications (Spring 2019)
-  * CNT 4713: Net-Centric Computing (Spring 2019)
+* Assistant Professor - [University of South Carolina Beaufort]
+  * Techniques of Computation (Fall 2019)
+
 
 ## Previous Teaching
-* Lecturer   
-  * CS 180: Introduction to Digital Literacy (Fall 2018)
-  * ENG 557: Computer Architecture and Design (Fall 2018)
+* Lecturer - [Florida International University](https://www.fiu.edu), [Barry University](https://www.barry.edu/)
+  * Data Communications (Spring 2019)
+  * Net-Centric Computing (Spring 2019) 
+  * Computer Security (Spring 2019)
+  * Programming for the Web (Spring 2019)
+  * Introduction to Digital Literacy (Fall 2018)
+  * Computer Architecture and Design (Fall 2018)
 * Graduate Teaching Assistant - [Florida International University](https://www.fiu.edu)
   * Introduction to Microcomputers Lab (Fall 2012, Spring 2013, Fall 2015, Summer 2016)
   * Computer Data Analysis Lab (Fall 2012, Fall 2015)
