@@ -8,7 +8,7 @@ author_profile: true
 Parallel Computing, Modeling and Simulation, Computer Networks, Software Engineering. I also enjoy teaching other core Computer Science courses, such as Programming Languages, Data Structure, Design and Analysis of Algorithms.
 
 ## Current Teaching 
-* Assistant Professor - [University of South Carolina Beaufort]
+* Assistant Professor - [University of South Carolina Beaufort](https://www.uscb.edu)
   * Techniques of Computation (Fall 2019)
 
 
