@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Program Committee Member 
-* ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/))
+* ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019, 2020](https://www.acm-sigsim-pads.org/))
 * International Conference on Computing, Networking and Communications ([ICNC 2016](http://www.conf-icnc.org/2016/), [ICNC 2017](http://www.conf-icnc.org/2017/), [ICNC 2018](http://www.conf-icnc.org/2018/), [ICNC 2019](http://www.conf-icnc.org/2019/))
 * International Workshop on Applied Modeling and Simulation ([WMAS 2019](http://www.msc-les.org/conf/wams2019/index.html))
 * International Conference on Advances in Computation, Communications and Services ([ACCSE 2018](https://www.iaria.org/conferences2018/ACCSE18.html), [ACCSE 2019](http://www.iaria.org/conferences2019/ACCSE19.html))
@@ -22,6 +22,7 @@ author_profile: true
 
 ## Reviewer
 * IEEE International Conference on Cloud Computing ([IEEE Cloud 2015](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7194474))
+* Georgia Undergraduate Research Conference ([GURC 2019](https://digitalcommons.northgeorgia.edu/gurc/))
 
 ## Sub-reviewer
 * ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/))
