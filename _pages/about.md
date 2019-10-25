@@ -23,7 +23,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
-* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019](https://www.acm-sigsim-pads.org/)).
+* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)).
 
 * [09/2019] I was awarded travel grant to attend [NSF MERIT Workshop](https://icnp19.cs.ucr.edu/merit.html), Chicago, IL, October 7, 2019.
 
