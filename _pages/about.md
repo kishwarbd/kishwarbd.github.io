@@ -23,7 +23,9 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
-* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)).
+* [10/2019] Our paper titled “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems” has been accepted in [IEEE CSCI 2019](https://americancse.org/events/csci2019). (Acceptance rate: 17%)
+
+* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)), Las Vegas, NV, USA.
 
 * [09/2019] I was awarded travel grant to attend [NSF MERIT Workshop](https://icnp19.cs.ucr.edu/merit.html), Chicago, IL, October 7, 2019.
 
@@ -35,7 +37,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [06/2019] I was awarded NSF travel grant to attend [2019 NSF Aspiring CSR PIs Workshop](https://www.cs.purdue.edu/homes/ayg/APW/html/), Alexandria, VA, June 20-21, 2019.
 
-* [06/2019] Our paper titled “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems” has been accepted in [WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/).
+* [06/2019] Our paper titled “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems” has been accepted in [WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/), National Harbor, MD, USA.
 
 * [05/2019] I was awarded faculty travel grant to attend [NSF MERIF Education Workshop](http://merif.seas.gwu.edu/), Washington, DC, May 29-30, 2019. 
 
@@ -43,6 +45,7 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
+*  **Kishwar Ahmed**, Kazutomo Yoshii, and Samia Tasnim, “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems,” at [IEEE CSCI 2019](https://americancse.org/events/csci2019). **(Acceptance rate: 17%)**
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)] **(Acceptance rate: 23.8%)**
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper](https://dl.acm.org/citation.cfm?id=2901396)]
 * Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, and Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc). [[paper](https://ieeexplore.ieee.org/document/7420641/)] **(Impact factor: 7.93)**
