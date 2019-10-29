@@ -25,13 +25,11 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [10/2019] Our paper titled “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems” has been accepted in [IEEE CSCI 2019](https://americancse.org/events/csci2019). (Acceptance rate: 17%)
 
-* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)), Las Vegas, NV, USA.
+* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)), Miami, FL, USA.
 
 * [09/2019] I was awarded travel grant to attend [NSF MERIT Workshop](https://icnp19.cs.ucr.edu/merit.html), Chicago, IL, October 7, 2019.
 
 * [08/2019] I joined [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/) as an Assistant Professor.
-
-* [07/2019] I will serve in the Technical Program Committee for the International Conference on Computing, Networking and Communication ([ICNC 2020](http://www.conf-icnc.org/2020/)).
 
 * [07/2019] I was awarded NSF travel grant to attend [NeTS Early Career Workshop](https://sites.google.com/view/netsearlycareer2019/home), Alexandria, VA, August 5-6, 2019.
 
