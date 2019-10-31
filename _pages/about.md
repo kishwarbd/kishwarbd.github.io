@@ -16,8 +16,8 @@ Computer Science and Engineering from the Department of Computer
 Sciences and Engineering at [Bangladesh
 University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009. I was a Research Aide at [Argonne National Laboratory](https://www.anl.gov/) during Summer 2017. 
 
-My research interests are broadly in the areas of **high-performance
-computing (HPC) systems** and **cyber-physical systems**. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of HPC systems.
+My research interests are broadly in the areas of high-performance
+computing (HPC) systems and cyber-physical systems. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of HPC systems.
 
 For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
