@@ -23,6 +23,8 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
+* [12/2019] I have been selected to participate in the [2020 Computing Research Association (CRA) Career Mentoring Workshop](https://cra.org/events/2020-career-mentoring-workshop/), Washington, DC, USA.
+
 * [12/2019] I presented our paper at [IEEE CSCI 2019](https://americancse.org/events/csci2019), Las Vegas, NV, USA. I also served as session chair at IEEE CSCI 2019.
 
 * [10/2019] Our paper titled “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems” has been accepted in [IEEE CSCI 2019](https://americancse.org/events/csci2019). (Acceptance rate: 17%)
