@@ -23,11 +23,13 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 ## Latest News
 
-* [12/2019] I presented our paper, as well as served as session chair at [IEEE CSCI 2019](https://americancse.org/events/csci2019).
+* [05/2020] I received the [2020 ASPIRE](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/faculty/aspire/) award to support my research on energy-efficient high-performance computing!
+
+* [04/2020] Our paper titled “Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing” has been accepted in [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)!
 
 * [10/2019] Our paper titled “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems” has been accepted in [IEEE CSCI 2019](https://americancse.org/events/csci2019). (Acceptance rate: 17%)
 
-* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)), Miami, FL, USA.
+* [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/), Miami, FL, USA.
 
 * [09/2019] I was awarded travel grant to attend [NSF MERIT Workshop](https://icnp19.cs.ucr.edu/merit.html), Chicago, IL, October 7, 2019.
 
