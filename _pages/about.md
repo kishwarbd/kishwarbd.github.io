@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Kishwar Ahmed. I am an Assistant Professor at [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/). I received my Ph.D. in Computer Science from the
+Hi, I am Kishwar Ahmed. I am an Assistant Professor in the [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/). I received my Ph.D. in Computer Science from the
 School of Computing and Information
 Sciences at [Florida International University (FIU)](https://www.fiu.edu/) under the supervision of [Prof.
 Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
