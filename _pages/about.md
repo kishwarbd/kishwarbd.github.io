@@ -19,15 +19,18 @@ University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009. I w
 My research interests are broadly in the areas of high-performance
 computing (HPC) systems and cyber-physical systems. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of HPC systems.
 
-For more information, please check out [Kishwar’s CV](https://kishwarbd.github.io/files/kishwar-cv.pdf).
 
 ## Latest News
+
+* [09/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation [ACM SIGSIM PADS 2021](https://www.acm-sigsim-pads.org/), Suffolk, VA, USA.
+
+* [08/2020] Our paper titled “A Smart Environment Monitoring Application for Mobile Internet of Things” has been accepted in [ICSEng 2020](http://www.icseng.com/)!
 
 * [05/2020] I received the [2020 ASPIRE](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/faculty/aspire/) award to support my research on energy-efficient high-performance computing!
 
 * [04/2020] Our paper titled “Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing” has been accepted in [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)!
 
-* [10/2019] Our paper titled “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems” has been accepted in [IEEE CSCI 2019](https://americancse.org/events/csci2019). (Acceptance rate: 17%)
+* [10/2019] Our paper titled “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems” has been accepted in [IEEE CSCI 2019](https://americancse.org/events/csci2019)!
 
 * [10/2019] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/), Miami, FL, USA.
 
@@ -35,15 +38,6 @@ For more information, please check out [Kishwar’s CV](https://kishwarbd.github
 
 * [08/2019] I joined [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/) as an Assistant Professor.
 
-* [07/2019] I was awarded NSF travel grant to attend [NeTS Early Career Workshop](https://sites.google.com/view/netsearlycareer2019/home), Alexandria, VA, August 5-6, 2019.
-
-* [06/2019] I was awarded NSF travel grant to attend [2019 NSF Aspiring CSR PIs Workshop](https://www.cs.purdue.edu/homes/ayg/APW/html/), Alexandria, VA, June 20-21, 2019.
-
-* [06/2019] Our paper titled “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems” has been accepted in [WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/), National Harbor, MD, USA.
-
-* [05/2019] I was awarded faculty travel grant to attend [NSF MERIF Education Workshop](http://merif.seas.gwu.edu/), Washington, DC, May 29-30, 2019. 
-
-* [04/2019] I will serve in the Technical Program Committee for the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
