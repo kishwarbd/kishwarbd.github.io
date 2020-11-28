@@ -10,11 +10,7 @@ redirect_from:
 Hi, I am Kishwar Ahmed. I am an Assistant Professor in the [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/). I received my Ph.D. in Computer Science from the
 School of Computing and Information
 Sciences at [Florida International University (FIU)](https://www.fiu.edu/) under the supervision of [Prof.
-Jason Liu](https://people.cis.fiu.edu/liux/) in 2018.  I received my
-Master's in Computer Science from FIU in 2017 and my Bachelor's in
-Computer Science and Engineering from the Department of Computer
-Sciences and Engineering at [Bangladesh
-University of Engineering and Technology (BUET)](http://buet.ac.bd) in 2009. I was a Research Aide at [Argonne National Laboratory](https://www.anl.gov/) during Summer 2017. 
+Jason Liu](https://people.cis.fiu.edu/liux/) in 2018. 
 
 My research interests are broadly in the areas of high-performance
 computing (HPC) systems and cyber-physical systems. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of HPC systems.
