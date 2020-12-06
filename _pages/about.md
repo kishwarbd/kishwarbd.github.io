@@ -37,7 +37,7 @@ computing (HPC) systems and cyber-physical systems. More specifically, my resear
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
-* **Kishwar Ahmed**, and Jason Liu, “Simulation of Energy-Efficient Demand Response for High Performance Computing System,” at [WSC 2019](https://meetings2.informs.org/wordpress/wsc2019/). [[paper](https://ieeexplore.ieee.org/abstract/document/9004781)]
+* **Kishwar Ahmed**, and Jason Liu, “Simulation of Energy-Efficient Demand Response for High Performance Computing System,” at [WSC 2019](https://meetings2.informs.org/wordpress/wsc2019/). [[paper](https://ieeexplore.ieee.org/abstract/document/9004781)]
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)] **(Acceptance rate: 23.8%)**
 * **Kishwar Ahmed**, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper](https://dl.acm.org/citation.cfm?id=2901396)]
 * Mohammad A. Islam, **Kishwar Ahmed**, Hong Xu, Nguyen H. Tran, Gang Quan, and Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc). [[paper](https://ieeexplore.ieee.org/document/7420641/)] **(Impact factor: 7.93)**
