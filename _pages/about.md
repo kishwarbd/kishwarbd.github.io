@@ -18,9 +18,9 @@ computing (HPC) systems and cyber-physical systems. More specifically, my resear
 
 ## Latest News
 
-* [11/2020] Our paper titled “Energy-Efficient Heterogeneous Computing of Parallel Applications via Power Capping” has been accepted in [CSCI 2020](https://www.american-cse.org/csci2020/).
+* [05/2021] I received the NSF CISE Research Initiation Initiative (CRII) award.
 
-* [09/2020] I will serve in the Program Committee for the ACM SIGSIM Conference on Principles of Advanced Discrete Simulation [ACM SIGSIM PADS 2021](https://www.acm-sigsim-pads.org/).
+* [11/2020] Our paper titled “Energy-Efficient Heterogeneous Computing of Parallel Applications via Power Capping” has been accepted in [CSCI 2020](https://www.american-cse.org/csci2020/).
 
 * [08/2020] Our paper titled “A Smart Environment Monitoring Application for Mobile Internet of Things” has been accepted in [ICSEng 2020](http://www.icseng.com/).
 
