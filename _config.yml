@@ -251,7 +251,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: false
+      author_profile: true
       share: true
   # _education
   - scope:
