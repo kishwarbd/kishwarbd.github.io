@@ -5,29 +5,29 @@ author_profile: true
 ---
 
 ## Teaching Interests
-Parallel Computing, Modeling and Simulation, Computer Networks, Software Engineering. I also enjoy teaching other core Computer Science courses, such as Programming Languages, Data Structure, Design and Analysis of Algorithms.
+Parallel Computing, Modeling and Simulation, Computer Architecture and Design. I also enjoy teaching other core Computer Science courses, such as Data Structure and Algorithms.
 
 ## Current Teaching 
 * Assistant Professor - [University of South Carolina Beaufort](https://www.uscb.edu)
-  * Techniques of Computation (Fall 2019)
-
+  * Techniques of Computation (Fall 2019, Fall 2020)
+  * High Performance Computing (Spring 2020, Spring 2021)
+  * Modeling and Simulation (Fall 2020)
+  * Introduction to Computer Architecture (Spring 2021)
 
 ## Previous Teaching
-* Lecturer - [Florida International University](https://www.fiu.edu), [Barry University](https://www.barry.edu/)
-  * Data Communications (Spring 2019)
-  * Net-Centric Computing (Spring 2019) 
-  * Computer Security (Spring 2019)
-  * Programming for the Web (Spring 2019)
-  * Introduction to Digital Literacy (Fall 2018)
-  * Computer Architecture and Design (Fall 2018)
+* Lecturer - [Florida International University](https://www.fiu.edu)
+  * Data Communications 
+  * Net-Centric Computing
+
 * Graduate Teaching Assistant - [Florida International University](https://www.fiu.edu)
-  * Introduction to Microcomputers Lab (Fall 2012, Spring 2013, Fall 2015, Summer 2016)
-  * Computer Data Analysis Lab (Fall 2012, Fall 2015)
-  * Programming I Lab (Summer 2013, Fall 2013, Spring 2014, Fall 2014, Spring 2015, Spring 2016, Fall 2016)
-  * Programming II (Summer 2014)
-  * Operating Systems (Spring 2017, Spring 2018)
+  * Introduction to Microcomputers Lab 
+  * Computer Data Analysis Lab 
+  * Programming I Lab
+  * Programming II
+  * Operating Systems
 * Research Experience for Teachers [(RET@FIU)](http://it2.fiu.edu/IT2_RET.php)
   * JavaScript (Summer 2015, Summer 2016)
+
 * Lecturer - [University of Information Technology and Sciences](https://www.uits.edu.bd/)
   * **Non-CS Major Courses:** Computer Fundamentals and Web Technology, Computer Programming, Computer Programming Lab
   * **Core CS Courses:** Structured Programming Language, Structured Programming Language Lab, Web Technology, Database Management System, Algorithms, Algorithms Lab
