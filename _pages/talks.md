@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Conference and Workshop Presentations
+* **Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing,** ([ACM SIGSIM PADS 2021](https://www.acm-sigsim-pads.org/)), Miami, FL, June 15-17, 2020.[[slides](https://kishwarbd.github.io/files/slides/pads17.pdf)]
+
 * **Modeling and Simulation of Computer and Network Systems**, [NeTS Early Career Workshop 2019](https://sites.google.com/view/netsearlycareer2019/home), National Science Foundation, Alexandria, VA, August 5-6, 2019. [[slides](https://kishwarbd.github.io/files/slides/nets19-elevator-pitch.pdf)]
 
 * **Energy Demand Response Modeling for High Performance Computing Systems**, Workshop on Modeling & Simulation of Systems and Applications ([ModSim 2018](https://www.bnl.gov/modsim2018/)), Seattle, WA, August 14-17, 2018. [[slides](https://kishwarbd.github.io/files/slides/modsim18.pdf)]
