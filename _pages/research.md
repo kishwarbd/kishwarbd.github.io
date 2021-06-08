@@ -19,7 +19,7 @@ We developed energy-efficient algorithms to reduce HPC systems’ energy consump
 
 ### Collaborators
 * [Kazutomo Yoshii](https://www.mcs.anl.gov/~kazutomo/), Argonne National Laboratory
-* [Mohammad Atiqul Islam](http://www.mohammadatiqulislam.com/), University of California, Riverside
+* [Mohammad Atiqul Islam](http://www.mohammadatiqulislam.com/), University of Texas at Arlington
 * [Jesse Bull](https://economics.fiu.edu/people/full-time-faculty/jesse-bull/), Department of Economics, FIU
 
 ## Performance Prediction Modeling of HPC Systems

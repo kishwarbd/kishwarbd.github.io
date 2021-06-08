@@ -5,7 +5,10 @@ author_profile: true
 ---
 
 ## Conference Papers
-* **Kishwar Ahmed**, Kazutomo Yoshii, and Samia Tasnim, “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems,“ to appear at International Conference on Computation Science and  Computational Intelligence ([CSCI 2019](https://americancse.org/events/csci2019)).
+* **Kishwar Ahmed**, Samia Tasnim, and Kazutomo Yoshii, “Parallel Application Power and Performance Prediction Modeling Using Simulation,” to appear at [WSC 2021](http://meetings2.informs.org/wordpress/wsc2021/).
+* Samia Tasnim, Ahmon Ferguson, Brooke Gordon, Chad Gordon, **Kishwar Ahmed**, andIdongesit Mkpong-Ruffin, “A Smart Environment Monitoring Application for MobileInternet of Things,” at [ICSEng](http://www.icseng.com/)[[paper](https://link.springer.com/chapter/10.1007/978-3-030-65796-3_21)]
+* **Kishwar Ahmed**, Samia Tasnim, and Kazutomo Yoshii, “Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing,” at [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/Programs/PADS-2020-Program.htm). [[paper](https://dl.acm.org/doi/abs/10.1145/3384441.3395991)]
+* **Kishwar Ahmed**, Kazutomo Yoshii, and Samia Tasnim, “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems,“ at International Conference on Computation Science and  Computational Intelligence ([CSCI 2019](https://americancse.org/events/csci2019)).
 * **Kishwar Ahmed**, and Jason Liu, “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems,“ to appear at the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
 * **Kishwar Ahmed**, Jesse Bull, and Jason Liu, “Contract-Based Demand Response Model for HPC Systems,” in Proceedings of the 16th IEEE International Symposium on Parallel and Distributed Processing with Applications ([ISPA 2018](http://www.swinflow.org/confs/2018/ispa/)), Melbourne, Australia, December 2018. DOI 10.1109/BDCloud.2018.00091. [[paper](https://ieeexplore.ieee.org/document/8672277)]
 * **Kishwar Ahmed**, Jason Liu, and Kazutomo Yoshii, “Enabling Demand Response for HPC Systems Through Power Capping and Node Scaling,” in Proceedings of the IEEE International Conference on High Performance Computing and Communications ([HPCC 2018](https://cse.stfx.ca/~hpcc2018/)), Exeter, UK, June 2018. DOI 10.1109/HPCC/SmartCity/DSS.2018.00133. [[paper](https://ieeexplore.ieee.org/abstract/document/8622871/)] **(Acceptance rate: 30%)**
@@ -28,8 +31,5 @@ author_profile: true
 * **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” in Workshop on Modeling & Simulation of Systems and Applications ([ModSim 2018](https://www.bnl.gov/modsim2018/)), Seattle, WA, August 2018. [[paper](https://kishwarbd.github.io/files/paper-modsim18.pdf)]
 * **Kishwar Ahmed**, Mohammad A. Islam, Shaolei Ren, and Gang Quan, “Can Data Center Become Water Self-Sufficient?,” in 6th Usenix Workshop on Power-Aware Computing and Systems ([HotPower 2014](https://www.usenix.org/conference/hotpower14)) held with USENIX [OSDI 2014](https://www.usenix.org/conference/osdi14), Broomfield, CO, October 2014. [[paper](https://www.usenix.org/conference/hotpower14/technical-sessions/presentation/can-data-center-become-water-self-sufficient)] **(Acceptance rate: 34%)**
 
-## Posters
-* **Kishwar Ahmed**, and Jason Liu, “Energy Demand Response Modeling for High Performance Computing Systems,” in Workshop on Modeling & Simulation of Systems and Applications ([ModSim 2018](https://www.bnl.gov/modsim2018/)), Seattle, WA, August 2018. [[poster](https://kishwarbd.github.io/files/posters/modsim18.pdf)]
-* Samia Tasnim, **Kishwar Ahmed**, Niki Pissinou, and S. S. Iyengar, “Offloading Code Efficiently on Mobile Cloud,” Poster in Grace Hopper Celebration of Women in Computing ([GHC 2015](https://ghc.anitab.org/)), Houston, TX, October 2015.
 
 
