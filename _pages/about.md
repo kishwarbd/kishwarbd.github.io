@@ -7,33 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Kishwar Ahmed. I am an Assistant Professor in the [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/). I received my Ph.D. in Computer Science from the
-School of Computing and Information
-Sciences at [Florida International University (FIU)](https://www.fiu.edu/) under the supervision of [Prof.
-Jason Liu](https://people.cis.fiu.edu/liux/) in 2018. 
+Hi, I am Kishwar Ahmed. I am an Assistant Professor in the [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/). My research interests include high-performance computing (HPC) and cyber-physical systems. I am especially interested in the energy-efficiency and security issues of HPC systems.
 
-My research interests are broadly in the areas of high-performance
-computing (HPC) systems and cyber-physical systems. More specifically, my research interests include modeling and simulation, parallel computing, interconnection network, and energy-efficiency. I am particularly focusing on the accurate, scalable, and efficient modeling and simulation of HPC systems.
+I received my Ph.D. in Computer Science from Florida International University, Miami, FL. I worked with [Prof.
+Jason Liu](https://people.cis.fiu.edu/liux/) for my dissertation. I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University and Technology, Dhaka, Bangladesh. I am honored to receive the NSF CRII award and the UofSC ASPIRE award.
 
 
-## Latest News
+## Selected News
 
-* [05/2021] I received the NSF CISE Research Initiation Initiative (CRII) award.
+* [06/2021] Our paper on parallel application power and performance prediction model has been accepted by WSC 2021.
 
-* [11/2020] Our paper titled “Energy-Efficient Heterogeneous Computing of Parallel Applications via Power Capping” has been accepted in [CSCI 2020](https://www.american-cse.org/csci2020/).
+* [05/2021] I have received the NSF CISE Research Initiation Initiative (CRII) award in support of my research on energy-efficient high-performance computing.
 
-* [08/2020] Our paper titled “A Smart Environment Monitoring Application for Mobile Internet of Things” has been accepted in [ICSEng 2020](http://www.icseng.com/).
+* [08/2020] Our paper on a smart environment monitoring application for IoT devices has been accepted by ICSEng 2020.
 
-* [05/2020] I received the [2020 ASPIRE](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/faculty/aspire/) award to support my research on power-capping modeling of high performance computing.
+* [05/2020] I have received the UofSC Advanced Support for Innovative Research Excellence (ASPIRE) award to support my research on power-capping modeling of high performance computing.
 
-* [04/2020] Our paper titled “Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing” has been accepted in [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/).
-
-* [10/2019] Our paper titled “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems” has been accepted in [CSCI 2019](https://americancse.org/events/csci2019).
-
-* [09/2019] I was awarded travel grant to attend [NSF MERIT Workshop](https://icnp19.cs.ucr.edu/merit.html), Chicago, IL, October 7, 2019.
-
-* [08/2019] I joined [Department of Computer Science](https://www.uscb.edu/academics/academic_departments/school-of-science-and-mathematics/computer-science/) at [University of South Carolina Beaufort](https://www.uscb.edu/) as an Assistant Professor.
-
+* [04/2020] Our paper on auction mechanism model for energy-efficient high performance computing has been accepted by ACM SIGSIM PADS 2020.
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
