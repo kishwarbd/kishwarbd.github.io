@@ -17,11 +17,11 @@ Jason Liu](https://people.cis.fiu.edu/liux/) for my dissertation. I also worked 
 
 * [06/2021] Our paper on parallel application power and performance prediction model has been accepted by WSC 2021.
 
-* [05/2021] I have received the NSF CISE Research Initiation Initiative (CRII) award in support of my research on energy-efficient high-performance computing.
+* [05/2021] I have received the NSF CISE Research Initiation Initiative (CRII) award in support of my research on energy-efficient high performance computing.
 
 * [08/2020] Our paper on a smart environment monitoring application for IoT devices has been accepted by ICSEng 2020.
 
-* [05/2020] I have received the UofSC Advanced Support for Innovative Research Excellence (ASPIRE) award to support my research on power-capping modeling of high performance computing.
+* [05/2020] I have received the UofSC Advanced Support for Innovative Research Excellence (ASPIRE) award in support of my research on power-capping modeling of high performance computing.
 
 * [04/2020] Our paper on auction mechanism model for energy-efficient high performance computing has been accepted by ACM SIGSIM PADS 2020.
 
