@@ -23,7 +23,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [05/2021] I have received the NSF CISE Research Initiation Initiative (CRII) award in support of my research on energy-efficient high performance computing.
 
-* [05/2020] I have received the University of South Carolina (UofSC) Advanced Support for Innovative Research Excellence (ASPIRE) award in support of my research on power-capping modeling of high performance computing.
+* [05/2020] I have received the UofSC Advanced Support for Innovative Research Excellence (ASPIRE) award in support of my research on power-capping modeling of high performance computing.
 
 * [04/2020] Our paper on auction mechanism model for energy-efficient high performance computing has been accepted by ACM SIGSIM PADS 2020.
 
