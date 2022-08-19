@@ -8,13 +8,17 @@ author_profile: true
 Parallel Computing, Modeling and Simulation, Computer Architecture and Design. I also enjoy teaching other core Computer Science courses, such as Data Structure and Algorithms.
 
 ## Current Teaching 
-* Assistant Professor - [University of South Carolina Beaufort](https://www.uscb.edu)
-  * Techniques of Computation (Fall 2019, Fall 2020)
-  * High Performance Computing (Spring 2020, Spring 2021)
-  * Modeling and Simulation (Fall 2020)
-  * Introduction to Computer Architecture (Spring 2021)
+* Assistant Professor - [The University of Toledo](https://www.utoledo.edu/)
+  * Non-Linear Data Structures (Fall 2022)
 
 ## Previous Teaching
+
+* Assistant Professor - [University of South Carolina Beaufort](https://www.uscb.edu)
+  * Techniques of Computation (Fall 2019, Fall 2020, Fall 2021)
+  * High Performance Computing (Spring 2020, Spring 2021, Spring 2022)
+  * Modeling and Simulation (Fall 2020, Fall 2021)
+  * Introduction to Computer Architecture (Spring 2021, Spring 2022)
+  * 
 * Lecturer - [Florida International University](https://www.fiu.edu)
   * Data Communications 
   * Net-Centric Computing
