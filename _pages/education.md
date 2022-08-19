@@ -16,7 +16,9 @@ Supervisor: [Prof. Jason Liu](http://people.cis.fiu.edu/liux/)
 Undergraduate Thesis Supervisor: [Prof. Saidur Rahman](https://saidurrahman.buet.ac.bd/)
 
 ## Employment
-* **Assistant Professor**, August 2019 - present<br/>
+* **Assistant Professor**, August 2022 - present<br/>
+[The University of Toledo](https://www.utoledo.edu/)
+* **Assistant Professor**, August 2019 - August 2022<br/>
 [University of South Carolina Beaufort](https://www.uscb.edu)
 * **Lecturer**, June 2018 - May 2019<br/>
 [Florida International University](https://www.fiu.edu)
