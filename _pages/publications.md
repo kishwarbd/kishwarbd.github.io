@@ -6,7 +6,7 @@ author_profile: true
 
 ## Conference Papers
 
-* Md Rajib Hossen, Mohammad A. Islam, **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [HPDC 2022](https://www.hpdc.org/2022/).
+* Md Rajib Hossen, Mohammad A. Islam, and **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [HPDC 2022](https://www.hpdc.org/2022/).
 * Samia Tasnim, Ahmon Ferguson, Brooke Gordon, Chad Gordon, **Kishwar Ahmed**, and
 Idongesit Mkpong-Ruffin, “A Smart Environment Monitoring Application for Mobile
 Internet of Things,” at [ICSEng](http://www.icseng.com/) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-65796-3_21)]
