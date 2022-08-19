@@ -6,7 +6,7 @@ author_profile: true
 
 ## Conference and Workshop Presentations
 * **Parallel Application Power and Performance Prediction Modeling Using Simulation,** ([WSC 2021](https://meetings.informs.org/wordpress/wsc2021/)), Phoenix, AZ, December 13-17, 2021.
-* 
+
 * **Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing,** ([ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/)), Miami, FL, June 15-17, 2020.[[slides](https://kishwarbd.github.io/files/slides/pads20.pdf)]
 
 * **Modeling and Simulation of Computer and Network Systems**, [NeTS Early Career Workshop 2019](https://sites.google.com/view/netsearlycareer2019/home), National Science Foundation, Alexandria, VA, August 5-6, 2019. [[slides](https://kishwarbd.github.io/files/slides/nets19-elevator-pitch.pdf)]
