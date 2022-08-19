@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Kishwar Ahmed. I am an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [University of South Carolina Beaufort](https://www.utoledo.edu/). My research interests include high performance computing (HPC) and cyber-physical systems. More specifically, I am interested in the energy-efficiency, sustainability, and security issues of large-scale computing systems.
+Hi, I am Kishwar Ahmed. I am an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [The University of Toledo](https://www.utoledo.edu/). My research interests include high performance computing (HPC) and cyber-physical systems. More specifically, I am interested in the energy-efficiency, sustainability, and security issues of large-scale computing systems.
 
 I received my Ph.D. in Computer Science from Florida International University, under the supervision of [Prof.
 Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University and Technology. I am honored to receive the NSF CRII award and the UofSC ASPIRE award.
 
 
 ## Recent News
+
+* [08/2022] I joined as an Assistant Professor in the Electircal Engineering and Computer Science Department at The University of Toledo.
 
 * [03/2022] Our paper on microservice autoscaling has been accepted by HPDC 2022.
 
