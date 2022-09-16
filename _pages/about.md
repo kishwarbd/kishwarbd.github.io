@@ -15,6 +15,8 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Recent News
 
+* [09/2022] Our paper on heterogeneous computing teaching has been accepted by EduHPC 2022 (held in conjunction with SC 2022).
+
 * [08/2022] I joined as an Assistant Professor in the Electircal Engineering and Computer Science Department at The University of Toledo.
 
 * [03/2022] Our paper on microservice autoscaling has been accepted by HPDC 2022.
