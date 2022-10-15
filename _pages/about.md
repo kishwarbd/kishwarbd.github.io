@@ -15,6 +15,8 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Recent News
 
+* [10/2022] I will serve as co-chair of the Sustainability and Energy Systems track at the annual simulation conference (ANNSIM'23).
+
 * [09/2022] Our paper on heterogeneous computing teaching has been accepted by EduHPC 2022 (held in conjunction with SC 2022).
 
 * [08/2022] I joined as an Assistant Professor in the Electircal Engineering and Computer Science Department at The University of Toledo.
@@ -26,10 +28,6 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 * [06/2021] Our paper on parallel application power and performance prediction model has been accepted by WSC 2021.
 
 * [05/2021] I have received the NSF CISE Research Initiation Initiative (CRII) award in support of my research on energy-efficient high performance computing.
-
-* [05/2020] I have received the UofSC Advanced Support for Innovative Research Excellence (ASPIRE) award in support of my research on power-capping modeling of high performance computing.
-
-* [04/2020] Our paper on auction mechanism model for energy-efficient high performance computing has been accepted by ACM SIGSIM PADS 2020.
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
