@@ -15,7 +15,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Recent News
 
-* [10/2022] I will serve as co-chair of the Sustainability and Energy Systems track at the annual simulation conference (ANNSIM'23).
+* [10/2022] I will serve as the co-chair of the Sustainability and Energy Systems track at the annual simulation conference (ANNSIM'23).
 
 * [09/2022] Our paper on heterogeneous computing teaching has been accepted by EduHPC 2022 (held in conjunction with SC 2022).
 
