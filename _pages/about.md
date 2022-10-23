@@ -15,17 +15,19 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Recent News
 
-* [10/2022] I will serve as the co-chair of the Sustainability and Energy Systems track at the annual simulation conference (ANNSIM'23).
+* [10/2022] Our paper on HPC oversubscription has been accepted to appear in [HPCA'23](https://hpca-conf.org/2023/).
 
-* [09/2022] Our paper on heterogeneous computing teaching has been accepted by EduHPC 2022 (held in conjunction with SC 2022).
+* [10/2022] I will serve as the co-chair of the Sustainability and Energy Systems track in [ANNSIM'23](https://scs.org/annsim/).
 
-* [08/2022] I joined as an Assistant Professor in the Electircal Engineering and Computer Science Department at The University of Toledo.
+* [09/2022] Our paper on heterogeneous computing teaching has been accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
 
-* [03/2022] Our paper on microservice autoscaling has been accepted by HPDC 2022.
+* [08/2022] I joined as an Assistant Professor in the [EECS Department](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at The University of Toledo.
 
-* [12/2021] I will serve in the technical program committee of ACM SIGSIM PADS 2022.
+* [03/2022] Our paper on microservice autoscaling has been accepted in [HPDC'22](https://www.hpdc.org/2022/).
 
-* [06/2021] Our paper on parallel application power and performance prediction model has been accepted by WSC 2021.
+* [12/2021] I will serve in the technical program committee of [ACM SIGSIM PADS'22](https://sigsim.acm.org/conf/pads/2022/).
+
+* [06/2021] Our paper on parallel application power and performance prediction model has been accepted in [WSC'21](https://meetings.informs.org/wordpress/wsc2021/).
 
 * [05/2021] I have received the NSF CISE Research Initiation Initiative (CRII) award in support of my research on energy-efficient high performance computing.
 
