@@ -25,7 +25,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [09/2022] Our paper on heterogeneous computing teaching has been accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
 
-* [08/2022] I joined as an Assistant Professor in the [EECS Department](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at The University of Toledo.
+* [08/2022] I joined as an Assistant Professor in the EECS Department at The University of Toledo.
 
 * [03/2022] Our paper on microservice autoscaling has been accepted in [HPDC'22](https://www.hpdc.org/2022/).
 
