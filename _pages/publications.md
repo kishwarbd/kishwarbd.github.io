@@ -7,9 +7,8 @@ author_profile: true
 ## Conference Papers
 
 * Md Rajib Hossen, Mohammad A. Islam, and **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [HPDC 2022](https://www.hpdc.org/2022/).
-* Samia Tasnim, Ahmon Ferguson, Brooke Gordon, Chad Gordon, **Kishwar Ahmed**, and
-Idongesit Mkpong-Ruffin, “A Smart Environment Monitoring Application for Mobile
-Internet of Things,” at [ICSEng](http://www.icseng.com/) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-65796-3_21)]
+* **Kishwar Ahmed**, Kazutomo Yoshii, and Samia Tasnim, “Parallel Application Power and Performance Prediction Modeling Using Simulation,” at [WSC 2021](https://meetings.informs.org/wordpress/wsc2021/)
+* Samia Tasnim, Ahmon Ferguson, Brooke Gordon, Chad Gordon, **Kishwar Ahmed**, and Idongesit Mkpong-Ruffin, “A Smart Environment Monitoring Application for Mobile Internet of Things,” at [ICSEng](http://www.icseng.com/) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-65796-3_21)]
 * **Kishwar Ahmed**, Samia Tasnim, and Kazutomo Yoshii, “Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing,” at [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/Programs/PADS-2020-Program.htm). [[paper](https://dl.acm.org/doi/abs/10.1145/3384441.3395991)]
 * **Kishwar Ahmed**, Kazutomo Yoshii, and Samia Tasnim, “Thermal-Aware Power Capping Allocation Model for High Performance Computing Systems,“ at International Conference on Computation Science and  Computational Intelligence ([CSCI 2019](https://americancse.org/events/csci2019)).
 * **Kishwar Ahmed**, and Jason Liu, “Simulation of Energy-Efficient Demand Response for High Performance Computing Systems,“ to appear at the Winter Simulation Conference ([WSC 2019](http://meetings2.informs.org/wordpress/wsc2019/)).
