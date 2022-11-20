@@ -25,6 +25,8 @@ author_profile: true
 
 ## Other Presentations
 
+* **Rapid Performance Prediction and Sustainability of High Performance Computing**, [UT Arlington CSE Seminar]([https://www.alcf.anl.gov/events](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/colloquia)), UT Arlington, Arlington, TX, November 17, 2022. [[slides](https://kishwarbd.github.io/files/slides/utaSeminar22.pdf)]
+
 * **Interconnection Network Models for Rapid Performance Prediction of HPC Applications**, [Argonne Leadership Computing Facility Seminar](https://www.alcf.anl.gov/events), Argonne National Laboratory, Lemont, IL, July 9, 2019. [[slides](https://kishwarbd.github.io/files/slides/alcf-seminar19.pdf)]
 
 * **How to Enable HPC System Demand Response: An Experimental Study**, [Chameleon User Meeting 2017](https://press3.mcs.anl.gov/ccusers2017/), Argonne National Laboratory, Lemont, IL, September 13-14, 2017. [[slides](https://kishwarbd.github.io/files/slides/chameleonusermeeting17.pdf)]
