@@ -17,7 +17,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [11/2022] I presented our work on heterogeneous computing teaching in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
 
-* [11/2022] I gave an invited talk at University of Texas at Arlington [Seminar](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/colloquia).
+* [11/2022] I gave an invited talk at UT Arlington [CSE Seminar](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/colloquia).
 
 * [10/2022] Our paper on HPC oversubscription has been accepted to appear in [HPCA'23](https://hpca-conf.org/2023/).
 
@@ -33,7 +33,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [06/2021] Our paper on parallel application power and performance prediction model has been accepted in [WSC'21](https://meetings.informs.org/wordpress/wsc2021/).
 
-* [05/2021] I have received the NSF CISE Research Initiation Initiative (CRII) award in support of my research on energy-efficient high performance computing.
+* [05/2021] I have received the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award.
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
