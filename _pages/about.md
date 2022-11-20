@@ -33,7 +33,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [06/2021] Our paper on parallel application power and performance prediction model has been accepted in [WSC'21](https://meetings.informs.org/wordpress/wsc2021/).
 
-* [05/2021] I have received the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award.
+* [05/2021] I received the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award.
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
