@@ -29,9 +29,10 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [12/2021] I will serve in the technical program committee of [ACM SIGSIM PADS'22](https://sigsim.acm.org/conf/pads/2022/).
 
+* [08/2021] I received the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award.
+
 * [06/2021] Our paper on parallel application power and performance prediction model has been accepted in [WSC'21](https://meetings.informs.org/wordpress/wsc2021/).
 
-* [05/2021] I received the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award.
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
