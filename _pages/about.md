@@ -15,8 +15,6 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Recent News
 
-* [11/2022] I presented our work on heterogeneous computing teaching in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
-
 * [11/2022] I gave an invited talk at UT Arlington [CSE Seminar](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/colloquia).
 
 * [10/2022] Our paper on HPC oversubscription has been accepted to appear in [HPCA'23](https://hpca-conf.org/2023/).
