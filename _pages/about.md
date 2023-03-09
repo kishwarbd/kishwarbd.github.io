@@ -34,7 +34,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
-* Md Rajib Hossen, **Kishwar Ahmed**, Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023]([https://www.hpdc.org/2022/](https://hpca-conf.org/2023/)). 
+* Md Rajib Hossen, **Kishwar Ahmed**, Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023]([https://www.hpdc.org/2022/](https://hpca-conf.org/2023/). 
 
 * Md Rajib Hossen, Mohammad A. Islam, **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [ACM HPDC 2022](https://www.hpdc.org/2022/). [[paper](https://dl.acm.org/doi/10.1145/3502181.3531460)]
 
