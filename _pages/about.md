@@ -15,13 +15,13 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Recent News
 
+* [01/2023] Our paper on HPC carbon-efficiency has been accepted in [NetZero'23](https://netzero.sysnet.ucsd.edu/).
+
 * [11/2022] I gave an invited talk at UT Arlington [CSE Seminar](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/colloquia).
 
 * [10/2022] Our paper on HPC oversubscription has been accepted to appear in [HPCA'23](https://hpca-conf.org/2023/).
 
-* [10/2022] I will serve as the co-chair of the Sustainability and Energy Systems track in [ANNSIM'23](https://scs.org/annsim/).
-
-* [09/2022] Our paper on heterogeneous computing teaching has been accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
+* [09/2022] Our paper on heterogeneous computing teaching experience has been accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
 
 * [08/2022] I joined as an Assistant Professor in the EECS Department at The University of Toledo.
 
@@ -36,9 +36,9 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
-* Md Rajib Hossen, Mohammad A. Islam, **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [ACM HPDC 2022](https://www.hpdc.org/2022/).
+* Md Rajib Hossen, **Kishwar Ahmed**, Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023]([https://www.hpdc.org/2022/](https://hpca-conf.org/2023/)). 
 
-* **Kishwar Ahmed**, Samia Tasnim, and Kazutomo Yoshii, “Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing,” at [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/Programs/PADS-2020-Program.htm). [[paper](https://dl.acm.org/doi/abs/10.1145/3384441.3395991)]
+* Md Rajib Hossen, Mohammad A. Islam, **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [ACM HPDC 2022](https://www.hpdc.org/2022/). [[paper](https://dl.acm.org/doi/10.1145/3502181.3531460)]
 
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)]
 
