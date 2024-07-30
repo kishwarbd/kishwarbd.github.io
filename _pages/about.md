@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Kishwar Ahmed, an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [The University of Toledo](https://www.utoledo.edu/). My research interests include high performance computing (HPC) and cyber-physical systems. More specifically, I am interested in the energy-efficiency, sustainability, and security issues of large-scale computing systems.
+I am Kishwar Ahmed, an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [The University of Toledo](https://www.utoledo.edu/). My research interests include high performance computing (HPC) and cyber-physical systems. I am interested in the energy-efficiency, sustainability, and security issues of large-scale computing systems.
 
 I received my Ph.D. in Computer Science from Florida International University, under the supervision of [Prof.
-Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University and Technology. I am honored to receive the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award and the [UofSC ASPIRE](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/faculty/aspire/) award.
+Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University and Technology. I received the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award.
 
 
 ## News
@@ -34,7 +34,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * Abubeker Abdurahman, Abrar Hossain, Kevin A. Brown, Kazutomo Yoshii, and **Kishwar Ahmed**, “Scalable Job Scheduling and Resource Management in SST,” at [WSC 2024](https://meetings.informs.org/wordpress/wsc2024/).
 
-* Md Rajib Hossen, **Kishwar Ahmed**, Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023](https://ieeexplore.ieee.org/document/10071006). 
+* Md Rajib Hossen, **Kishwar Ahmed**, and Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023](https://ieeexplore.ieee.org/document/10071006). 
 
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)]
 
