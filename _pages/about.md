@@ -15,21 +15,19 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Recent News
 
-* [01/2023] Our paper on HPC carbon-efficiency has been accepted in [NetZero'23](https://netzero.sysnet.ucsd.edu/).
+* [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/).
 
-* [11/2022] I gave an invited talk at UT Arlington [CSE Seminar](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/colloquia).
+* [03/2024] TPC member at [HiPC'24](https://www.hipc.org/).
 
-* [10/2022] Our paper on HPC oversubscription has been accepted to appear in [HPCA'23](https://hpca-conf.org/2023/).
+* [09/2023] TPC member at [SIGSIM-PADS'24](https://sigsim.acm.org/conf/pads/2024/).
 
-* [09/2022] Our paper on heterogeneous computing teaching experience has been accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
+* [02/2023] One paper accepted in [HPCA'23](https://hpca-conf.org/2023/).
 
-* [08/2022] I joined as an Assistant Professor in the EECS Department at The University of Toledo.
+* [09/2022] One paper accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
 
-* [03/2022] Our paper on microservice autoscaling has been accepted in [HPDC'22](https://www.hpdc.org/2022/).
+* [03/2022] One paper accepted in [HPDC'22](https://www.hpdc.org/2022/).
 
-* [12/2021] I will serve in the technical program committee of [ACM SIGSIM PADS'22](https://sigsim.acm.org/conf/pads/2022/).
-
-* [08/2021] I received the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award.
+* [08/2021] [NSF CRII Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300124&HistoricalAwards=false).
 
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
