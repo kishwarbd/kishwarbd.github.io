@@ -21,7 +21,6 @@ author_profile: true
 
 ## Reviewer
 * IEEE International Conference on Cloud Computing ([IEEE Cloud 2015](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7194474))
-* Georgia Undergraduate Research Conference ([GURC 2019](https://digitalcommons.northgeorgia.edu/gurc/))
 
 ## Sub-reviewer
 * ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/))
