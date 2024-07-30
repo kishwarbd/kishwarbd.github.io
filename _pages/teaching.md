@@ -5,14 +5,18 @@ author_profile: true
 ---
 
 ## Teaching Interests
-Parallel Computing, Modeling and Simulation, Computer Architecture and Design. I also enjoy teaching other core Computer Science courses, such as Data Structure and Algorithms.
+Parallel Computing, Modeling and Simulation, Computer Architecture and Design, Operating Systems and Systems Programming.
 
 ## Current Teaching 
 * Assistant Professor - [The University of Toledo](https://www.utoledo.edu/)
-  * Non-Linear Data Structures (Fall 2022)
+  * Non-Linear Data Structures (Fall 2024)
+  * Operating Systems (Fall 2024)
 
 ## Previous Teaching
-
+* Assistant Professor - [The University of Toledo](https://www.utoledo.edu/)
+  * Non-Linear Data Structures (Fall 2022, Fall 2023)
+  * Linear Data Structures (Spring 2023, Spring 2024)
+    
 * Assistant Professor - [University of South Carolina Beaufort](https://www.uscb.edu)
   * Techniques of Computation (Fall 2019, Fall 2020, Fall 2021)
   * High Performance Computing (Spring 2020, Spring 2021, Spring 2022)
