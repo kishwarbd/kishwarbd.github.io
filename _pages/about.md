@@ -32,9 +32,9 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
-* Md Rajib Hossen, **Kishwar Ahmed**, Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023](https://hpca-conf.org/2023/). 
+* Abubeker Abdurahman, Abrar Hossain, Kevin A. Brown, Kazutomo Yoshii, and **Kishwar Ahmed**, “Scalable Job Scheduling and Resource Management in SST,” at [WSC 2024](https://meetings.informs.org/wordpress/wsc2024/).
 
-* Md Rajib Hossen, Mohammad A. Islam, **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [ACM HPDC 2022](https://www.hpdc.org/2022/). [[paper](https://dl.acm.org/doi/10.1145/3502181.3531460)]
+* Md Rajib Hossen, **Kishwar Ahmed**, Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023](https://ieeexplore.ieee.org/document/10071006). 
 
 *  **Kishwar Ahmed**, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)]
 
