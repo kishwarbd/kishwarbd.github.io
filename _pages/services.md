@@ -7,7 +7,6 @@ author_profile: true
 ## Program Committee Member 
 * ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019-2024](https://www.acm-sigsim-pads.org/))
 * High Performance Computing, Data, and Analytics ([HiPC 2024](https://www.hipc.org/))
-* International Conference on Computing, Networking and Communications ([ICNC 2016](http://www.conf-icnc.org/2016/), [ICNC 2017](http://www.conf-icnc.org/2017/), [ICNC 2018](http://www.conf-icnc.org/2018/), [ICNC 2019](http://www.conf-icnc.org/2019/))
 * IEEE International Conference on Communications ([IEEE ICC 2018](http://icc2018.ieee-icc.org/))
 
 ## Proceedings Chair
