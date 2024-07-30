@@ -13,7 +13,7 @@ I received my Ph.D. in Computer Science from Florida International University, u
 Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University and Technology. I am honored to receive the [NSF CRII](https://beta.nsf.gov/funding/opportunities/computer-information-science-engineering-research) award and the [UofSC ASPIRE](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/faculty/aspire/) award.
 
 
-## Recent News
+## News
 
 * [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/).
 
