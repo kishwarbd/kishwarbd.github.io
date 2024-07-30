@@ -1,5 +1,5 @@
 ---
-title: "Group"
+title: "Current Students"
 permalink: /group/
 author_profile: true
 ---
