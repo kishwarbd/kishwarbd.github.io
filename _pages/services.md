@@ -6,6 +6,7 @@ author_profile: true
 
 ## Program Committee Member 
 * ACM SIGSIM Conference on Principles of Advanced Discrete Simulation ([ACM SIGSIM PADS 2019-2024](https://www.acm-sigsim-pads.org/))
+* Workshop on Education for High-Performance Computing ([EduHPC 2023-2024](https://tcpp.cs.gsu.edu/curriculum/?q=eduHPC24))
 * High Performance Computing, Data, and Analytics ([HiPC 2024](https://www.hipc.org/))
 * IEEE International Conference on Communications ([IEEE ICC 2018](http://icc2018.ieee-icc.org/))
 
