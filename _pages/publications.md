@@ -7,7 +7,7 @@ author_profile: true
 ## Conference Papers
 
 * Abubeker Abdurahman, Abrar Hossain, Kevin A. Brown, Kazutomo Yoshii, and **Kishwar Ahmed**, “Scalable Job Scheduling and Resource Management in SST,” at [WSC 2024](https://meetings.informs.org/wordpress/wsc2024/).
-* Md Rajib Hossen, **Kishwar Ahmed**, and Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [HPCA 2022](https://hpca-conf.org/2023/). [[paper](https://ieeexplore.ieee.org/document/10071006)]
+* Md Rajib Hossen, **Kishwar Ahmed**, and Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [HPCA 2023](https://hpca-conf.org/2023/). [[paper](https://ieeexplore.ieee.org/document/10071006)]
 * Md Rajib Hossen, Mohammad A. Islam, and **Kishwar Ahmed**, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [HPDC 2022](https://www.hpdc.org/2022/). [[paper](https://dl.acm.org/doi/10.1145/3502181.3531460)]
 * **Kishwar Ahmed**, Kazutomo Yoshii, and Samia Tasnim, “Parallel Application Power and Performance Prediction Modeling Using Simulation,” at [WSC 2021](https://meetings.informs.org/wordpress/wsc2021/).
 * **Kishwar Ahmed**, Samia Tasnim, and Kazutomo Yoshii, “Simulation of Auction Mechanism Model for Energy-Efficient High Performance Computing,” at [ACM SIGSIM PADS 2020](https://www.acm-sigsim-pads.org/Programs/PADS-2020-Program.htm). [[paper](https://dl.acm.org/doi/abs/10.1145/3384441.3395991)]
