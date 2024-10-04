@@ -14,6 +14,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 
 ## News
+* [06/2024] One paper accepted in [HiPC'24](https://www.hipc.org/).
 
 * [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/).
 
