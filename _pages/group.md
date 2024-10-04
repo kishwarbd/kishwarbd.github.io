@@ -4,7 +4,7 @@ permalink: /group/
 author_profile: true
 ---
 
-## MS Student
+## MS Students
 * Abrar Hossain (2023-)
 
 ## Undergraduate Students
