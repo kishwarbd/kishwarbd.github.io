@@ -18,7 +18,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [08/2024] A $600K project in collaboration with NMSU was funded by NSF. **Many thanks to the NSF!** 
 
-* [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/).
+* [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/). **Congratulations to Abubeker!**
 
 * [03/2024] TPC member at [HiPC'24](https://www.hipc.org/).
 
@@ -29,9 +29,6 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 * [09/2022] One paper accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
 
 * [03/2022] One paper accepted in [HPDC'22](https://www.hpdc.org/2022/).
-
-* [08/2021] [NSF CRII Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300124&HistoricalAwards=false).
-
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
