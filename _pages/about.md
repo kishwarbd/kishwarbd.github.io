@@ -10,7 +10,7 @@ redirect_from:
 I am Kishwar Ahmed, an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [The University of Toledo](https://www.utoledo.edu/). My research interests include high performance computing (HPC) and cyber-physical systems. I am interested in efficient and sustainable modeling and simulation of large-scale computing systems.
 
 I received my Ph.D. in Computer Science from Florida International University, under the supervision of [Prof.
-Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University and Technology. I received the [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300124&HistoricalAwards=false) award.
+Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology. I received the [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300124&HistoricalAwards=false) award.
 
 
 ## News
