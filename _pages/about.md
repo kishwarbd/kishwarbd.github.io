@@ -14,11 +14,13 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 
 ## News
-* [10/2024] One paper accepted in [HiPC'24](https://www.hipc.org/). **Congratulations to Abrar!**
+* [11/2024] One paper accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24). Congratulations to Abubeker!
 
-* [08/2024] A $600K project in collaboration with NMSU was funded by NSF. **Thanks NSF!** 
+* [10/2024] One paper accepted in [HiPC'24](https://www.hipc.org/). Congratulations to Abrar!
 
-* [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/). **Congratulations to Abubeker!**
+* [08/2024] A $600K project in collaboration with NMSU was funded by NSF. Thanks NSF!
+
+* [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/). Congratulations to Abubeker!
 
 * [03/2024] TPC member at [HiPC'24](https://www.hipc.org/).
 
