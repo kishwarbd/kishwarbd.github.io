@@ -13,5 +13,4 @@ author_profile: true
 * Abrar Hossain (2023-)
 
 ## Undergraduate Students
-* Arihant Singh (2024)
 * Abubeker Abdurahman (2023-2024)
