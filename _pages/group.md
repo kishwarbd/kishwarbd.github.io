@@ -5,12 +5,13 @@ author_profile: true
 ---
 
 ## PhD Students
-* Md. Azahar Alam (Spring 2025 - Present)
-* Faeghe Farrokhpey (Spring 2025 - Present)
+* Md. Azahar Alam (01/2025 - Present)
+* Faeghe Farrokhpey (01/2025 - Present)
 
 ## MS Students
-* Samiul Ahsan Pranto (Spring 2025 - Present)
-* Abrar Hossain (Fall 2023 - Present)
+* Samiul Ahsan Pranto (01/2025 - Present)
+* Abrar Hossain (08/2023 - Present)
 
 ## Undergraduate Students
-* Abubeker Abdurahman (Spring 2023 - Spring 2024)
+* Anita Esmaeilian (05/2025 - Present)
+* Abubeker Abdurahman (01/2023 - 05/2024)
