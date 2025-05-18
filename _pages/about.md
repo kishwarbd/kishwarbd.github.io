@@ -14,6 +14,8 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 
 ## News
+* [13/2025] One paper accepted in [JSSPP'25](https://jsspp.org/). Congratulations to Abrar!
+
 * [11/2024] One paper accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24). Congratulations to Abubeker!
 
 * [10/2024] One paper accepted in [HiPC'24](https://www.hipc.org/). Congratulations to Abrar!
@@ -27,10 +29,6 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 * [09/2023] TPC member at [SIGSIM-PADS'24](https://sigsim.acm.org/conf/pads/2024/).
 
 * [02/2023] One paper accepted in [HPCA'23](https://hpca-conf.org/2023/).
-
-* [09/2022] One paper accepted in [EduHPC'22](https://tcpp.cs.gsu.edu/curriculum/?q=eduhpc22).
-
-* [03/2022] One paper accepted in [HPDC'22](https://www.hpdc.org/2022/).
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
