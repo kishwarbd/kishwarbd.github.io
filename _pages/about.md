@@ -16,7 +16,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 ## News
 * [03/2025] One paper accepted in [JSSPP'25](https://jsspp.org/). Congratulations to Abrar!
 
-* [03/2024] TPC member at [HiPC'25](https://www.hipc.org/).
+* [03/2025] TPC member at [HiPC'25](https://www.hipc.org/).
 
 * [11/2024] One paper accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24). Congratulations to Abubeker!
 
