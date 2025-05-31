@@ -13,4 +13,5 @@ author_profile: true
 * Abrar Hossain (08/2023 - Present)
 
 ## Undergraduate Students
+* Anita Esmaeilian (05/2025 - Present)
 * Abubeker Abdurahman (01/2023 - 05/2024)
