@@ -20,7 +20,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 * [11/2024] Our paper on teaching parallel computing has been accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24).
 
-* [10/2024] Our paper on HPC parameter auotuting has been accepted in [HiPC'24](https://www.hipc.org/).
+* [10/2024] Our paper on HPC parameter autotuning has been accepted in [HiPC'24](https://www.hipc.org/).
 
 * [08/2024] A $600K project in collaboration with NMSU was funded by NSF.
 
