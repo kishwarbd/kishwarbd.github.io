@@ -7,28 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am Kishwar Ahmed, an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [The University of Toledo](https://www.utoledo.edu/). My research interests include high performance computing (HPC) and cyber-physical systems. I am interested in efficient and sustainable modeling and simulation of large-scale computing systems.
+I am Kishwar Ahmed, an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [The University of Toledo](https://www.utoledo.edu/). My research interests include high performance computing and cyber-physical systems. I am interested in efficient and scalable modeling and simulation of large-scale computing systems.
 
 I received my Ph.D. in Computer Science from Florida International University, under the supervision of [Prof.
-Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology. I received the [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300124&HistoricalAwards=false) award.
+Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide at Argonne National Laboratory. I received my B.Sc. degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology. I received the NSF CRII award.
 
 
 ## News
-* [03/2025] One paper accepted in [JSSPP'25](https://jsspp.org/). Congratulations to Abrar!
+* [03/2025] Our paper on HPC cost optimization has been accepted in [JSSPP'25](https://jsspp.org/).
 
 * [03/2025] TPC member at [HiPC'25](https://www.hipc.org/).
 
-* [11/2024] One paper accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24). Congratulations to Abubeker!
+* [11/2024] Our paper on teaching parallel and heterogeneous computing has been accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24).
 
-* [10/2024] One paper accepted in [HiPC'24](https://www.hipc.org/). Congratulations to Abrar!
+* [10/2024] Our paper on HPC application parameter auotuting has been accepted in [HiPC'24](https://www.hipc.org/).
 
-* [08/2024] A $600K project in collaboration with NMSU was funded by NSF. Thanks NSF!
+* [08/2024] A $600K project in collaboration with NMSU was funded by NSF.
 
-* [06/2024] One paper accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/). Congratulations to Abubeker!
+* [06/2024] Our paper on HPC job scheduling simulation has been accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/).
 
 * [09/2023] TPC member at [SIGSIM-PADS'24](https://sigsim.acm.org/conf/pads/2024/).
 
-* [02/2023] One paper accepted in [HPCA'23](https://hpca-conf.org/2023/).
+* [02/2023] Our paper on HPC mechanism design has been accepted in [HPCA'23](https://hpca-conf.org/2023/).
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
