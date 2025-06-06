@@ -32,17 +32,15 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a research aide a
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
+* Abrar Hossain, Abubeker Abdurahman, Mohammad A. Islam, and Kishwar Ahmed, “Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization,” at [JSSPP 2025](https://jsspp.org/).
+
+* Abrar Hossain, Abdel-Hameed A. Badawy, Mohammad A. Islam, Tapasya Patki, and Kishwar Ahmed, “HPC Application Parameter Autotuning on Edge Devices: A Bandit Learning Approach,” at [HiPC 2024](https://www.hipc.org/).
+
 * Abubeker Abdurahman, Abrar Hossain, Kevin A. Brown, Kazutomo Yoshii, and Kishwar Ahmed, “Scalable Job Scheduling and Resource Management in SST,” at [WSC 2024](https://meetings.informs.org/wordpress/wsc2024/).
 
 * Md Rajib Hossen, Kishwar Ahmed, and Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [IEEE HPCA 2023](https://ieeexplore.ieee.org/document/10071006). [[paper](https://ieeexplore.ieee.org/document/10071006)]
 
-*  Kishwar Ahmed, Jason Liu, and Xingfu Wu, “An Energy Efficient Demand-Response Model for High Performance Computing Systems,” at [IEEE MASCOTS 2017](https://mascots2017.cs.ucalgary.ca/). [[paper](https://ieeexplore.ieee.org/document/8107444/)]
-
-* Kishwar Ahmed, Mohammad Obaida, Jason Liu, Stephan Eidenbenz, Nandakishore Santhi, and Guillaume Chapuis, “An Integrated Interconnection Network Model for Large- Scale Performance Prediction,” at [ACM SIGSIM PADS 2016](https://www.acm-sigsim-pads.org/). [[paper](https://dl.acm.org/citation.cfm?id=2901396)]
-
-* Mohammad A. Islam, Kishwar Ahmed, Hong Xu, Nguyen H. Tran, Gang Quan, and Shaolei Ren, “Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers,” at [IEEE Transactions on Cloud Computing](https://www.computer.org/web/tcc). [[paper](https://ieeexplore.ieee.org/document/7420641/)]
-
-* Kishwar Ahmed, Mohammad A. Islam, and Shaolei Ren, “A Contract Design Approach for Colocation Data Center Demand Response,” at [IEEE/ACM ICCAD 2015](https://iccad.com/). [[paper](https://ieeexplore.ieee.org/document/7372629/)] 
+* Md Rajib Hossen, Mohammad A. Islam, and Kishwar Ahmed, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [HPDC 2022] (https://hpdc.sci.utah.edu/2022/).
 
 
   
