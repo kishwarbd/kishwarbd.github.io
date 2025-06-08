@@ -10,7 +10,7 @@ redirect_from:
 I am an Assistant Professor in the [Department of Electircal Engineering and Computer Science](https://www.utoledo.edu/engineering/electrical-engineering-computer-science/) at [The University of Toledo](https://www.utoledo.edu/). My research interests include high performance computing and cyber-physical systems. I am interested in efficient and scalable modeling and simulation of large-scale computing systems.
 
 I received my Ph.D. in Computer Science from [Florida International University](https://www.fiu.edu/), under the supervision of [Prof.
-Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a research aide at [Argonne National Laboratory](https://www.anl.gov/). I received my B.Sc. degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/). I received NSF Computer and Information Science and Engineering Research Initiation Initiative ([NSF CRII](https://www.nsf.gov/funding/opportunities/crii-computer-information-science-engineering-research-initiation/504952/nsf23-576)) award. 
+Jason Liu](https://people.cis.fiu.edu/liux/). I also worked as a Research Aide at [Argonne National Laboratory](https://www.anl.gov/). I received my B.Sc. degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/). I received NSF Computer and Information Science and Engineering Research Initiation Initiative ([NSF CRII](https://www.nsf.gov/funding/opportunities/crii-computer-information-science-engineering-research-initiation/504952/nsf23-576)) award. 
 
 
 ## News
