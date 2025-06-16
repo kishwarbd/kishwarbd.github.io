@@ -26,10 +26,6 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 * [06/2024] Our paper on HPC job scheduling simulation has been accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/).
 
-* [09/2023] TPC member at [SIGSIM-PADS'24](https://sigsim.acm.org/conf/pads/2024/).
-
-* [02/2023] Our paper on HPC mechanism design has been accepted in [HPCA'23](https://hpca-conf.org/2023/).
-
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
 * Abrar Hossain, Abubeker Abdurahman, Mohammad A. Islam, and Kishwar Ahmed, “Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization,” at [JSSPP 2025](https://jsspp.org/).
