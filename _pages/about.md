@@ -14,7 +14,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 
 ## News
-* [08/2025] Our paper on AI accelerator memory modeling has been accepted in [MemSys'25](https://www.memsys.io/).
+* [08/2025] Our paper on AI accelerator memory model has been accepted in [MemSys'25](https://www.memsys.io/).
 
 * [03/2025] Our paper on HPC cost optimization has been accepted in [JSSPP'25](https://jsspp.org/).
 
