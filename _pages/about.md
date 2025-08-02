@@ -28,7 +28,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
 
-* Md. Azahar Alam, Nandakishore Santhi and Kishwar Ahmed, “Scalable Analytical Memory Modeling of AI Accelerators,” at [MemSys 2025](https://www.memsys.io/).
+* Md. Azahar Alam, Nandakishore Santhi, and Kishwar Ahmed, “Scalable Analytical Memory Modeling of AI Accelerators,” at [MemSys 2025](https://www.memsys.io/).
 
 * Abrar Hossain, Abubeker Abdurahman, Mohammad A. Islam, and Kishwar Ahmed, “Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization,” at [JSSPP 2025](https://jsspp.org/).
 
