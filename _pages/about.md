@@ -14,19 +14,21 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 
 ## News
+* [08/2025] Our paper on AI accelerator memory modeling has been accepted in [MemSys'25](https://www.memsys.io/).
+
 * [03/2025] Our paper on HPC cost optimization has been accepted in [JSSPP'25](https://jsspp.org/).
 
 * [03/2025] TPC member at [HiPC'25](https://www.hipc.org/).
 
-* [11/2024] Our paper on teaching parallel computing has been accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24).
+* [11/2024] Our paper on teaching parallel and heterogeneous computing has been accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24).
 
 * [10/2024] Our paper on HPC parameter autotuning has been accepted in [HiPC'24](https://www.hipc.org/).
 
 * [08/2024] A $600K project in collaboration with NMSU was funded by NSF.
 
-* [06/2024] Our paper on HPC job scheduling simulation has been accepted in [WSC'24](https://meetings.informs.org/wordpress/wsc2024/).
-
 ## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
+
+* Md. Azahar Alam, Nandakishore Santhi and Kishwar Ahmed, “Scalable Analytical Memory Modeling of AI Accelerators,” at [MemSys 2025](https://www.memsys.io/).
 
 * Abrar Hossain, Abubeker Abdurahman, Mohammad A. Islam, and Kishwar Ahmed, “Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization,” at [JSSPP 2025](https://jsspp.org/).
 
@@ -35,8 +37,3 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 * Abubeker Abdurahman, Abrar Hossain, Kevin A. Brown, Kazutomo Yoshii, and Kishwar Ahmed, “Scalable Job Scheduling and Resource Management in SST,” at [WSC 2024](https://meetings.informs.org/wordpress/wsc2024/).
 
 * Md Rajib Hossen, Kishwar Ahmed, and Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [HPCA 2023](https://ieeexplore.ieee.org/document/10071006).
-
-* Md Rajib Hossen, Mohammad A. Islam, and Kishwar Ahmed, “Practical Efficient Microservice Autoscaling with QoS Assurance,” at [HPDC 2022](https://hpdc.sci.utah.edu/2022/).
-
-
-  
