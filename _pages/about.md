@@ -26,7 +26,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 * [08/2024] A $600K project in collaboration with NMSU was funded by NSF.
 
-## Selected Publications ([Full List](https://kishwarbd.github.io/publications/))
+## Selected Publications
 
 * Md. Azahar Alam, Nandakishore Santhi, and Kishwar Ahmed, “Scalable Analytical Memory Modeling of AI Accelerators,” at [MemSys 2025](https://www.memsys.io/).
 
