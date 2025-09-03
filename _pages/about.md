@@ -14,9 +14,11 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 
 ## News
+* [09/2025] Our paper on teaching machine learning and artifical intelligence using hands-on activities has been accepted in [EduHPC'25](https://tcpp.cs.gsu.edu/curriculum/?q=eduHPC25) (Colocated with SC25).
+
 * [08/2025] Our paper on AI accelerator memory model has been accepted in [MemSys'25](https://www.memsys.io/).
 
-* [03/2025] Our paper on HPC cost optimization has been accepted in [JSSPP'25](https://jsspp.org/).
+* [03/2025] Our paper on HPC cost optimization has been accepted in [JSSPP'25](https://jsspp.org/) (Colocated with IPDPS 2025).
 
 * [03/2025] TPC member at [HiPC'25](https://www.hipc.org/).
 
@@ -28,6 +30,8 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 ## Selected Publications
 
+* Anita Esmaeilian, and Kishwar Ahmed, “From Soil to Software: Experience from a STEM Workshop on Smart Plant Care and Teachable Machines,” at [EduHPC'25](https://tcpp.cs.gsu.edu/curriculum/?q=eduHPC25).
+
 * Md. Azahar Alam, Nandakishore Santhi, and Kishwar Ahmed, “Scalable Analytical Memory Modeling of AI Accelerators,” at [MemSys 2025](https://www.memsys.io/).
 
 * Abrar Hossain, Abubeker Abdurahman, Mohammad A. Islam, and Kishwar Ahmed, “Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization,” at [JSSPP 2025](https://jsspp.org/).
@@ -35,5 +39,3 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 * Abrar Hossain, Abdel-Hameed A. Badawy, Mohammad A. Islam, Tapasya Patki, and Kishwar Ahmed, “HPC Application Parameter Autotuning on Edge Devices: A Bandit Learning Approach,” at [HiPC 2024](https://www.hipc.org/).
 
 * Abubeker Abdurahman, Abrar Hossain, Kevin A. Brown, Kazutomo Yoshii, and Kishwar Ahmed, “Scalable Job Scheduling and Resource Management in SST,” at [WSC 2024](https://meetings.informs.org/wordpress/wsc2024/).
-
-* Md Rajib Hossen, Kishwar Ahmed, and Mohammad A. Islam, “Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems,” at [HPCA 2023](https://ieeexplore.ieee.org/document/10071006).
