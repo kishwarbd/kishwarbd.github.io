@@ -22,7 +22,7 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 * [03/2025] TPC member at [HiPC'25](https://www.hipc.org/).
 
-* [11/2024] Our paper on teaching parallel and heterogeneous computing has been accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24) (Colocated with HiPC 2025).
+* [11/2024] Our paper on teaching parallel and heterogeneous computing has been accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24) (Colocated with HiPC 2024).
 
 * [10/2024] Our paper on HPC parameter autotuning has been accepted in [HiPC'24](https://www.hipc.org/).
 
