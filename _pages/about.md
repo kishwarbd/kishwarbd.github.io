@@ -14,13 +14,14 @@ Jason Liu](https://people.cis.fiu.edu/liux/). I worked as a Research Aide at [Ar
 
 
 ## News
-* [09/2025] Our paper on teaching parallel computing and machine learning has been accepted in [EduHPC'25](https://tcpp.cs.gsu.edu/curriculum/?q=eduHPC25).
 
 * [08/2025] Our paper on AI accelerator memory model has been accepted in [MemSys'25](https://www.memsys.io/).
 
 * [03/2025] Our paper on HPC cost optimization has been accepted in [JSSPP'25](https://jsspp.org/).
 
 * [03/2025] TPC member at [HiPC'25](https://www.hipc.org/).
+
+* [10/2024] Our paper on teaching parallel and heterogeneous computing has been accepted in [EduHiPC'24](https://tcpp.cs.gsu.edu/curriculum/?q=eduHiPC24).
 
 * [10/2024] Our paper on HPC parameter autotuning has been accepted in [HiPC'24](https://www.hipc.org/).
 
